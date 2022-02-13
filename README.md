@@ -4,15 +4,15 @@
 The purpose of this project is to use deep learning techniques to create a music generator that can create unique and melodious music. There are now many different formats of training data (MIDI, .mp3, .wav) that have been used, as well as different types of models such as GANs, Google’s WaveNet, and different types of RNNs. For the sake of simplicity, it was decided to narrow down the focus specifically to using LSTM-based model architectures to generate music in the ABC notation. 
 The ABC notation is a text-based music notation format. Each entry in it begins with identifiers for the index (X), title (T), author/s (S), meter/time signature (M), key (K), and unit note length (L). This is followed by the actual transcription, that uses 7 letters (A to G) and symbols corresponding to features such as key, note length, raised or lowered octave, flat and sharp to represent the song. Multiple examples of this notation are provided in the EDA. The actual data for this project came from the Nottingham Music Database that has 1037 different folk tunes as part of their “Nottingham Collection”. 
 
-### Paper 1 - Music transcription modelling and composition using deep learning
+#### Paper 1 - Music transcription modelling and composition using deep learning
 In this paper, researchers built two different types of RNNs (with the same architecture) - char-RNN, which operates over a vocabulary of single characters, and folk-RNN, which operates over a vocabulary of transcription tokens, and was trained on single complete transcriptions. They trained these RNNs on ~23,000 different transcriptions in the ABC notation. To generate samples, a “seed” value was provided, which was then used to sample from a probability distribution output as to what the next value should be, which was used as the input value for the next and so on. 
 Unlike previous works, the networks created here contain thousands of units, and generated thousands of transcriptions for evaluation. The transcriptions generated were evaluated by using descriptive statistics comparing the training transcriptions and the generated samples (including comparing distributions), examining the adherence of the generated transcriptions to conventions found in the training transcriptions with respect to musical theory, and by sharing the transcriptions online on a forum and asking people to rate them and provide feedback. 
 This paper was chosen as it uses a similar dataset with the same format albeit with a lot more samples for training. The authors have a good understanding of musical theory and used statistical analysis of the generated samples to find that their experiment produced very good results. 
 
-### Paper 2 - Music Generation Using Three-layered LSTM
+#### Paper 2 - Music Generation Using Three-layered LSTM
 In this paper, three-layered LSTM networks were used to train on ABC notation data. The data that was used in this research was monophonic, meaning that all the transcriptions were composed using a single instrument. The model(s) were evaluated using accuracy and loss, and how the generated samples sounded to the authors. While this evaluation strategy is lacklustre compared to the other papers, it is worth replicating the work done here because the authors did mention that they expect the model to perform better if it was trained on polyphonic, or multi-instrument data, which the Nottingham Collection that is being used here comprises of.
 
-### Paper 3 - Text-based LSTM networks for Automatic Music Composition
+#### Paper 3 - Text-based LSTM networks for Automatic Music Composition
 This paper is similar to paper 1, except it focuses specifically on the generation of jazz chord progressions and rock music drum tracks. Just as with the research being done as a part of this project, the authors simplify the process by using text data rather than representations of musical symbols or numeric values (such as binary vectors to represent pitch and chords). The data format differed for each type of task, with a .xlab format for the chord progressions, and MIDI format being used for the drum tracks. Examples of each can be found in the paper. Both tasks were evaluated by assessing whether the generated samples has learned the relationships that they were meant to from the training data. For chord progressions, they found that the model was able to learn local structures of chords and bars and local relationships between flags and chords. They also found that the generated samples lie well within jazz grammar. For drum tracks, however, this was not the case and the authors felt a more complex network would be required. This paper was chosen as it used different text formats to the ones being used in this project, thus it is worth exploring if the findings from this paper generalize well to other similar problems. Moreover, the way their model was able to capture intricate musical theory relationships makes it worthwhile to apply here. 
 
 ## 2.	Evaluation Framework
@@ -27,13 +27,13 @@ The EDA guided the evaluation framework for this project, as outlined above. The
 ## 4.	Experiments & Tuning
 A lot of experimentation and tuning was conducted for this project – a lot of which was done with the first model. Subsequently, the things learnt from the previous models helped shape and improve the tuning procedure. 
 
-### Model 1
+#### Model 1
 For Model 1, we experimented with reducing the batch size to give the model a more regularizing effect, which improved the performance and reduced overfitting. Since Paper 1 used a learning rate schedule for the optimizer, we tried using Adam and RMSProp without any learning rate specified, since they tend to be adaptive, however the results were not much better. Different regularization techniques were then tried, first increasing the dropout, then using L1 and L2 regularization with various values of lambda. Kernel regularization was not fruitful at all however increasing dropout to a maximum of 0.7 did improve performance. The ‘poisson’ loss was also tried, and while the results were positive in terms of uniqueness, it generated lots of garbage values and lots of samples generated were out of tune. Combinations of reducing the complexity and increasing dropout were tried, but the results got stuck in a loop of either a really high error rate and a small average maximum similarity score or vice versa. 
 
-### Model 2
+#### Model 2
 For Model 2, we tried increasing the number of epochs, then increasing the complexity with more hidden layers. Experimentation was done with the dropout as well as doubling the hidden units, something we didn’t do with Model 1. On the whole, the performance improvements from experimentation as average.
 
-### Model 3
+#### Model 3
 The baseline model performance for model 3 was pretty bad, with a high error rate and high average maximum similarity score, so we started with increasing the model’s complexity, then tuning the dropout, and then finally reducing the model’s complexity (in terms of the hidden units) to tune the and get the lowest average maximum similarity score. 
 
 ## 5.	Ultimate Judgment, Analysis & Limitations
