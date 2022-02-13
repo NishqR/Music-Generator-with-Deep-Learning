@@ -1,0 +1,450 @@
+D~/&>&&j{w@I{RYyan
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+A|"D"fgf "A7"edc|"D"dcd cda|"Em"dcB "A7"cBc|"D"dfA d2:|
+
+
+
+
+@m#<{~M@<&]Zx{X#Z&Z{U<{*Z]>@QOx<<Z>*<'H<><&*ZEZZ.<l{{sBi&+Zq8&T@@q>>VUV>>@I{jUT@@<>}{?G{@@{q-%<*y/?@58&]*@YWq4x]]K{}I>@@!~@}~@@{@{Z<#wq>{>GZ{**&@Z<**>{{&Z*m@*~Q{<@Z*@@3{>~{Z@>Z>]{*l'@>@Lj']@~X{TEwIQ>h]@]@Z*@Z+n@R]*@@mU@>>@q{@@@<>*>Z{{j{q!&J}Z%':OZ{@.@>Z<T@~~x]LZ>*>@&w8~kRhr@{Z~CRZZT>>]T]@_*RW{@lk@@<Z@>U+@#pV]{@@>*@>@@:Zq{<Z'n~>@@#<@7*x@.&@Z@@kZ~q@ZVkG_@q+>N{<]ZqZq.@?Z~#hT
+
+y@*VS@Y@J]@q{@#?>wK@@<q@*Z3}UN>@l:#>Z@~>&&m#Z~{@@>#U&@~g@8jZ{s]{k.>Rw5&@k{~#@{@>@~~x*{~&&&{x&{k@>:@}#j@'~@R@@>#{<q@>@'5*qZ{#&@s5@.V>]~#Y@T{hP&@ZZDZu@*9q@qv+Zh&X&ZZXJ]P<{>qx@*#wYO.}N*#&{&RZI{>*]u@VZ{O@{qT@&#&WZ<?@@@]<@@@~ZqO@@O*{<Ui*@&#V{#{R@#Z&R]{~qU#>v@Z@Q*w]Z@@q@sWRqTZ*<[>VZ@@*V@>T>>*>nq*~<@Z{&iZ&Z<@!&&@{@@]q]@>H@>:*@@>{*Y?&#@@*+@Zl{*@@@>##w{F&>ZRN>k<R{m@'}&Z~@&V<#>@u#{{~FT~}#{@&<@&lx{@{<K.<>xw~#*>I@Tx>@w{x>@>nRk&@@{#*%*@@>X*@?SZ<U+>{EU)>@q<<V@hm>@>@I#&>?&#@TP
+
+
+
+
+
+M:6/8
+K:Am
+A|"F"A^AA e3|e2d c2B|c2e c2c|"F"F3 F3|
+"F"F3 AB^A "G7"Bcd|"C"c3 c2c|"Fm"d2c "G7"c2B|"Am"cBA A2c|
+"Dm"d2B "Dm"A2A|"Gm"B3 -"Cm"d2c|"D7"def fed|"Gm"d2e d2G|"F"c2A F2G|"Dm"A3 -"G7"G2B||
+"G"G2^G B2d|"C7"c2d e2d|"C"c2^c e2d|c3 B2A-|"C"G2f d2^c|
+"F"f2c A^ca|"G"g2g ^g2g|"C"gbg efe|"C"c6:|
+P:G
+|:cde|B2g gBc|"C"cce edc|"G7"d6|"C"c2B -c2g|"G7"agd "C7"edc|
+"Am"efe edc|"G"dBG d^FG|"Dm"dcB A3|"F"A3 -A2d|"C"cBc Ged|c2c e3|
+"C"c2c "G"d2G|"C"c3 c^cd|G2c def|"C"edc "D7"d2^c|
+"C"e2d ccA|"G"dbf edB|"Am"ABc "G"d3|"Em"e3 -"E7"fe^d|
+"Am"edc "Em"BBA|"Em"GBG "Em"EFG|"Dm"AGE "Gm"B^"Bb"d|"Cm"c2G A2A|
+"Cm"GAB "C7"cBA|"E7"GEE G2E|"F7"F2d eAA|
+"Gm"Bcd g2f/2e/2d/2|"C"eee gec|"F"A3 -A2A|"Gm"B2c ddB|"Cm"A2F G2g|
+"Bb"ggg "Cm"g2c|"Dm"d2B A2A|"Gm"BAG D3|"Gm"GBG G3"g7"G|"Cm"G2G AFG|
+"F"AFF Dcd|"Cm"cec A2G|"C7"GFE E2F|"D7"G3 BGA|
+"C"GEF "C7"cde|"Eb"dBG "Ebi"G3|"F"Acd cBA|"Am"GFE "Bb"FDD|
+ FE F2D|"Am"E3 e2d|"C7"cBd edc|"F"B3 "Eb"c3|
+"Eb"Bgf g
+
+
+
+
+
+% %uo/4 inc ilrin
+%A/2
+:G/2A/2 dcd|"D"df a2|"G"gfg "F#7"a^f|"G"BBg GBG|"D"A2F "G"G2::
+B/2c/2|"D"f2d fgf|"Em"g2g e2g|"A"ag3 ecc|"D7"d^ff -dg|"G"G3 d2::
+B|"Am"c2B "D7"GGA|"G"dBd "Em"e2B|"D7"ABA G2f|"D7"a2b a2f|
+"C"ecB A2g|"F"fce e=dB|"Dm"cBA d2C|"Bb"BAG FEG|"Bb"FFB "Eb"ABB|"Bb"ded BBd|
+"C"cdB GGA|"C"Gfe cBA|"G7"BAG BGG "C7"cGE|"Eb"B,DD DDD::
+FAB AFA|"F"AFF "F7"GAB|"F"c/2c/2d/2e/2 "G7"gfg|
+"F"fcd "Eb"e3|"Eb"bbb bag|"Bb"dgf "Eb"g2f|"Eb"e2g "Bb"f2g|"Bb"b2a gfe|\
+
+
+
+
+% Nottingham Music Database
+S:Ralph Page, via Phil Rowe
+M:6/8
+K:A
+E|"A"FvEE EFE|"D"FED "A"EFD|"Em"EFA EBc|"E7"EBA EBc|"E7"dcB "E7"A3|
+"A"cde cBA|"E7"BAG B2e|"A"c3 cAF|"E"G2A "A"A2A|
+"A"Acg AcA|"D"ded "A"cAA|"D"d2e ff^d|"E7"edB BGA|
+"A"efe cBA|"A"Acg agg|"D"aaa "A"feB|"F#m"cdc "A"eag|
+"D"faa "E"gea|"E7/b"gfe "A"ecA|"E"BAG "F#m"AGF|"E7"E3 E3|
+"A"cAA cGA|"D"def agf|"A"ecA Aef|"A"cAA A3|
+"A"efe cBA|"E"B3 -cB2|"A"ccA A2G|"A"ABA A2z:|
+P:B
+"A7"Adg a2a|"A"aAa a3|"Bm"g2f b2a|"Em"adf "E7"g4|
+"A"ecc ecA|"E7"FEB ecA|"A"Ace edc|"E7"BdB E2^G|
+"A"Aag a2g|"F#m"fed cBA|"G"Bcd "A"ecA|"D"dcd "A"ace|"D"f2d def|
+"C"gag "G"dBG|"D"AFA "A7"AGA|"D"d2d def|"Em"edB "A7"ABc|"D"d3 d2||
+
+
+
+
+%M:4/4
+L:1/4
+K:G
+"Em"g/2D/2 E||
+
+
+"Em"BE^G "A"A:|
+
+
+
+
+P:B
+"A7"G3/2B/2 A3/2B/2|AG Be|c3/2c/2 a2g/2f/2|"C"eee cAe|"Am"gaa "G"dgb|"G"bgg "D"agf|\
+"G"gbg "D7"gdA|"G"G2B "G7"BAG|
+"C"e2c "G"BAG|gAB gag|"D"fed "A7"ecA|"D"d3 -d2:|
+P:B
+g/2d/2|"G"e2d cBA|(3"D7"AcB AFA|"G"BGG Gcd|"C"efg "G"dcd|"C"egf "D7"fdf|
+"G"gfg deg|"G"gfg gfg|"G"DGB dcB|"C"EGA "G"G/2A/2B/2A/2G|
+"Am"cAA A2c|"G"dBG "Am"ABc|
+"Em"Bef e2f|"Am"efe efg|"Am"eBA A2:|
+P:B
+A/2G/2|"D"FAA Ade|aBf A2B|"D"Adf Afe|"Em"dBG "A"A7:|
+
+
+{y+Y*&&%&]F~+@VZ>{v>@.<@{~YZ_]kU{!>DHN{Z*@&Xqh@*{>Z*&7*.>{ZZ@*@}~-NK5#R&>5]&%Z}@LZZ>x]~{{:~@@@>F@q@ZUZ@s]>vt#]*@#@'*&Zw#@qZ@Ty~{<&>{@&@Z@R@LW{{>7>**#Z<@r@<<*Z?*O{
+
+
+
+{q>@kLoq~qV@P]@@:@qRq>qI{XiwT{&@k@@}qY&l@kVZ@*o@ZZ<@&@kqR@@@8wZ~@@{wqV{}U'q@<@@X}@_&?{q@#@<{]>Z>@<CWeR+&<*@<@Z+<){>O!6TV@>>UR]+'Zq~<30{Y<Z&>~@{@m*j&**0>@>@<]@>@{@I>*w*q*@{{@Tq+~&P@Z@<nq@@@{G#&UT.]@Z*@ZU.Zj@><@~'*<x~@&#S<&J{9<O@>@*@Z@@>&V@~<y[>{@.}{>-~q@@Z@Z>+b@]p{*%>#XL<@q@@V<SZ+]
+
+&#@*k{@~@Z{@@#Y@.T@V>T.**@@{@{1+@@*@?>Fn@%*>@@T>r*Z>ZW%*>@W*]Z.@?.@'Z{#@@@@%@Z1@&{U.@R>}HI}uO*O']@0&:#>Z@8H@W&@fO'>c@@T{@@kn#@Z@]@<T@j{{x@@xJZ@#v<@#>@>G~p>{jh8Y*Z&@>TnT&O@]ZZ0@{~hZk{RUZ~{q><&@4?.&<>{@q@~#@Z#>U@hR@#}]@{@>{&t@@<+>'*<s]<&@]&Zzh]&.<Z{>x<&@{@%T@@@jQ>>i{&l@{&Z@q>>]~@{p]>>#Z@q<m@@>~'
+0<@}.@{@@oM*Zjw@]h>zxZ@Z@#{&0k~~&<<:zhw*]Zq]@T@Uq<#@<Z.RUV{&@>&@]J@+R>@@qq0vU@<*&3*>ZM>n{#{>>>?Z>+q>&q&O{GR#Z>@>@Y><q<Z{[>!ZR<p<>@ZkO~&+<{{>@>9R@]Z{#*>@:q>x@@@>O'*{*'~@x@~@]?{.u@@U)O@#@J>U~*@UV@Z><@#*.@}>}q~#<@>X<Z]]@t@@*&<&Z>x&>@@@Z>&@@@@#&U]<@>@@@x?kY@{Z@<?Z>{8{<>~Z*k{qx**&*]{~~[Fx8Z{@1Gq->J.@~?-{[<V3&@@**Y>]w]Z>k+mv{O.%@t{Z{@@{~Z@>{*><J><Z@kV@*{->@{{@U{.@R']@?8q.F>~*{%@*Z#@0*@YI#Z@@@I?##U}TuL@.Z@<{Z<:RR@vX@*R@]o@{@&>>**>7Z*~@Z
+
+
+
+k}@@@*~J*?V@*N>R>&ZZDq<}*>R@*j@8Zq%0{.>@>SlhZ@<}k&.Tk{}*}#*>O@<ZOD<]T~M&R]*>Z@<qf@L~#@{'CY~>*@@T@>@{V>l]~{ZZx@@@t&Yk{I<K*@>RJ@{&*@wZ]YZ>q>l}@~*@]Z@Z.xx~T]@0{:R@>+Zs~&?T@<>{!>@~@R*.ZP@@q@x'h*TX{{&J>&<~#hI*R}#?@Vd>@&>HZR*@r>w>#Z>Z]Tq*R&*#>Z]{J@REWO>U@{>~<u**>}Zy{s>*m*0&wx?{#@@k0@pxZ{Z>+qT]*Z'*>>~+*@@>**{@@&T{>O@{J*]1Z~<{>{]>~&I&@R7<Z.Z@&Uk<]{{>@*7>{Y@N>N*@Zq@<@&~]@>k#V*{&q'CJ>~Z>I@{Z&T+>>q'{#Zy&Z{@~@&J@@.@?@>@{~kG.~q@{~<@Y
+
+
+
+@*Y@RP@Y<@*x*@w@*@*<-{7>Z>&ZMZ#JZ#v%>>Zk{:{@@T@.>@?U{#@{&@K@'{>{R:T@@+@Zm<Z0&'@<&&]q*#!#@wF+&j*{@^IZ@@@ZqVr~0*l@*>{I.>@&.9Z{#>*]_~R@@&Z@@@@@x@*@{@@*{<<@v&~ZW@&UZZ]?]x}?Q+&J>@@]{*@]{>@Z'*>UxZZV{8>TJ{@#UY@@@~Z@'}@]q{ZZ#@>@Z{R*#<<{@@v].kDY]YZ.U>j&.*>>{p@TX.@@><<Z<>YR>>]~@@&R{ks]>#N@&>p{>@*@T]vk{x@&O]{@<@.+xXZ@@@*-@@>{>uJ{@@V+Z>p#&<ZR>W}&RM@>l*.{|#{*&'{#@Z@l@F@&@&J@Oq{@<skZ<{@L@%Z*3Z{<*@q*#S>{@Z@H&VhkUR@@>&{>Z<qq@'x*h@Z~o>&xk>X@M@@{>@]*@k@>*{@{&Z@>q<q>p*@l*m?<U*Z&{@q*Z]X0@u8@5{@S'.u{?#kx&]@V8Z'>].!]'~Z!@@<U>U#H@]@*_@@*LVXx@|{QX~>~T{Z*#@@Zz
+
+
+
+{&#}M@@Tnx>uZq#.nYsK@ZV<xZZ*@qVL@@xxh@t@@?J]><&@q@<U<@&*]x<}~&+{@]@#&Z*>]><Y+sY}@@5T>@@>~IQI{#XH@#X>Z&@{*y1V@r@M@D]/>Oq<,{H??Tbw@.>Z>qt@*UMkT@u?+@jE@*)uZ{@xJZZZV&|<WZ<]{t{>J.Y{
+
+
+
+
+
+M:6/8
+K:G
+P:B
+d/2f/2|"G"gfg "Dm"f2a|"G"g2g d2d|"Am"cef efg|"G"bdd dBd|\
+M:4/4
+L:1/4
+d/2d/2c/2 AB|d3/2c/2 BB|cd/2e/2 dB|AD EE|:E
+"Em"Bc Bc|"A7"AB Ag|"D"ff "A7"e/2d/2c|
+"D"f3/2g/2 ef/2g/2|"D"af d2|"D"^Ad fz|"G"gf eg|"A"eB AB/2A/2|
+"E7"B3E|"E7"Bc BB|"A7"cB BA|"G"B2 gd|"D"AF "D7"D2|"D7"GE F/2D/2=F|"G"GB dB|
+"G"G3/2B/2 "D7"Ag|"G"dg "C"eg|\
+K:D
+"A"a3/2a/2 "A7"af|"D"a3/2g/2 fe|"G"db -d2|\
+K:D
+"D"f/2e/2d cd
+
+
+
+
+
+M:4/4
+L:1/4
+K:G
+A/2A/2|"G"B/2A/2B/2d/2 e/2d/2c/2B/2|"C"cB/2c/2 d/2e/2f/2d/2|\
+"C"cc/2c/2 "G"dB/2d/2|\
+"D7"d/2c/2d/2e/2 "C"G/2e/2f/2g/2|K
+"G"gg g:|
+
+
+
+
+@@VYZ@]>+{>@xvlZ?{{nh>kl~@@@}~?>@~Z*>@?W*].<<K-{@OZ]>#{&Z@~@Zr{{P*]@~@{Z+l&T8&~ZZw>::@@.j<{%7}@nL,>U@Z8&x=P@@>+E#@qj@Z@Z@>}{q@>@I>&{{{J@@U@#ZFMW+#*<}IZ~q@k~*{@G@Z>&>*U@{~&]>VV@Zo@>,Nqq&{~{&L@&>&V&ZJ#>@<5kK*]@<ZV.@h]s}&X{J/@{'Z<*oI{{@>~~Hh&CpB>@q~q>*@0pB@*~>+TZ@>@@&>>@<)r>U#ZZ@~<%LIUZ@qHs{*>[RZl{k&0T~{x]@t@@*{<&ZX~{D@@~]VY?@@@<+{GV&0*}>@*8ZwZ>]q*&>ZZ#>Y~}<H>.#]*t*<9*?{Z@*C@<~~R@*>T@@:q@:ZJU{Y~&{0&{]Z@>@{X>WT@@>T3OYl~>~]*qz&:{<@.{*~U.>@s>r.@)*>>*O#?{*{o@{*{@r#<{@ZF>>hh*Z>~~K@&{Zg{@@q{&Q@@]{Z+q>>@][@q*F&{.@k&KZV&>~>~U*@X&*l*>LV7@ZZ@&3+@,VU&xZ@?@F{>*@ZZ'@#%#{~~>VZZ#<>>O@@.:@+@EQ@{..@Z{#@@+@*>>YT@5]&7@0<}@@R<Ur&I{~XZZ.{@@<ZO*]@]>&+M{h@<~q3#@>x>q}~@
+
+):+@u:.{*+EZZ*@*Z{@-{xq>@Z?K@wZ@{+k}~qxVR0*.@{{u{Y&?7x>@&>~Zt!J<&ZJ*@{-l#{P%&Z@@@#Z@>UZ]wsk@@@T.>O?&@{x@@w>@{Z@<@v@@n@+UYVVYZ*@m{*>0<S&{~Z@UVO@}x##]@9WZqt@@{>@8Z<0{@@hZ#Z>@#jk+R<>@Z*o@Z@ZZ*@lU+>VqZuT?Zq>s~rR*>@Z*@@Zx~Z@@T}@.@@~q.@@R{s>.OV{k>K*>x**Z0*}@@#~{>@5<q~>>h'<JU>~{I#*J>5@{@#[>?k*@<@n>>{@{]@T@@{@*]qG@~MT{J@#&}Z>t<{>@~&x]b#D{%R@YZx@q@V.u8@+Zl..@YZ*@<xU@@@Iq{Z_@@Z<&~#+Z:@{Z@{Zq*@@?{N<><R&T>@q>*.*TY{*@*X>@V3xO]k@xV>vZ@@{[v~>IqZ@@?@&>?&Z@~&Q*X@'{@.Z@OO@m{@*V?*@@@**8*+>@<@v>@RQ}&@<R@
+
+% To/4|L:3/4
+L:1/4
+K:D
+A|"D"ff/2d/2 f2|"a"c/2d/2B/2c/2 "D"A2|"Em"
+
+
+
+"D"DAA A2d|"D"daf d2e|"G"dBd ede|"D"d2A d2A|"G"BAB dBG|
+"A"A2e "G"d2G|"A"A2c c3/2B/2A|"A"c2e c2E|cBc cBA|"A"[e2c2][cc]|[e2e2][^A3|
+|[em][dA]cd c2B|A2B A2B|g2f "A7"e2d|
+"Bm"B2B B2B|d3 d2d|"C"ede cde|"G7"d^ea b2a|"Em"gfe ge^c|
+"Em"e2e ^def|"Am"ece eGA|"E7"c3 -Bcd|"Em"ede "Em"fed|
+"Am"cea feB|"Am"dcB ABA|"Am"ecA efe|"D7"d2g "G7"def|"C"e2f "C7"b2g|
+"F"a2a Bcf|"F"cce "F7"_c2a|"F"afc "Bb"B2f|"F"fa=f a2a|
+"Bb"f2d a3|"Gm"feg gab|"Cm"b2g "C"g2c|"F"ced "F7"c2d|"F"c'cc cd^c|\
+"C"ece "F7"BcA| [1"Em"G2d g2g 
+|:"G"b2b dfd|"G"G2G GGB|"G7"ABc ded|"Am"cBAA EAc|"D7"ded "G7"g2-g|
+"C"egg gfe|"G"dBG "Am"cAF "B7"FCF|"C"DGG "D7"CEE|"Am"CAE A,2D|"Em"G2G E^AB|
+"Am"c3 Ea=c|"D7"BAB c2B|"C"ceg cga|"A7"age "D"d3:|
+P:B
+A|"D"def fcd|"G"g2g gfe|BcB G3|"Am"e2B cFA|
+"D7"daf d2d|Bcd a2f|d2c B2A|d3 d2c|BEF ADD|
+"G"G2G B2d|"Em"e2d g2f|"Em"efe gdB|"Am"A3 -A2:|
+
+
+% Nottingham Music Database
+S:Piter2G MeAd 177, via EF
+M:6/8
+K:Am
+F|"Dm"F2A d2e|"Bb"f2B "Gm"B3|"C"c2B c2c|"Gm"dde "C"d3|
+"F7"c2d cBA|"Bb"B2A "Eb"F2B|"F"A3 -"Bb"B3|"Cm"c3 "C7"e2d|"F"cBA B2A|
+"F"G2G F3|"C"cBG "Bb"BAB|"F"c3 g2f|"C7"cBc c2G|"Bb"d^cB "F7"AFD|
+"F"F3 ^ABc|"C"cBc c3 cBc|"F"fcf f2e|"Bb"dff fdB|"C7"edc "F"G2:|
+P:B
+d|"Gm"edB DGD|BGd d2B|"D7"AGF D2A|"G7"dBG GGA|g2d edB|
+"C"Gdg "C7"afe|"G7"bag gfg|"Cm"g3 "C7"edc|"C"ccc Ged|"G"BGG BGB:|
+
+
+
+
+j#ZhR@V*N^x#@{@tZs@@@vzU*>ZR@>@Z&Z{*&<&~Z.{_{q@O@?Ts'0?@{X<Z#{<s9&@*?OY{H>Z<mV@C@@{[<>Z@&*x<@&<]]<@@>{@~{D}@x&F@{{@ZIu#Q>Z@*&&>@@w].D~J>S>Z{@&Z>>u>{@{>@TV{T@7:QY&S@><@<@Zlu*!xT]{#Z@@ZsZ9@xZ#@#@w@8@..<O@i*&]#Z}Z#Z&@{R{.Z]K{@]~<<~Z@x<?]@&@J{W{*{<]~>'%Z>*<?w*@n.#<@V@%ZIZY>q><Zw@*@E*8u@Z*u9c>*{
+R>?}@#
+
+
+
+M:6/8
+K:D
+A|"D"f2f afd|"D"A2A Add|efe d2d|"G"BGB "D"A2F|
+"Em"E3 -EGG "A7"E2A|"Am"ABc "D7"B2A|"D7"AGF D2E|"G"DDG d2c|
+"G"B2A G2B|c2c d2c|"G"Bcd dgd|"C"e2g ceg|"D"fed def|
+"G"gab bdB|"D"A3 "G"GA=d|"A7"Fec A2e|"D"d3 -A2:|
+
+
+P:3/4
+L:1/4
+K:G
+cB c/2B/2|"Am"AB A^G|"D7"F4|"G"d2 G2|"C"c3/2B/2 "A7"A2|"Dm"d2 "Em"B2|
+"F"A2 -F2|"G"Gb "Am"e2|"D7"ed -cB|"D7"Af ^B2|"G"G3/2c/2 BA|"G"B4|
+"G"G2 "C"g2|"G"ed "C"c2|"G"deB "D7"Ac|"G"G2 G
+
+M:6/8
+K:G
+D|"G"GGG Gcg|"C"gec cde|"G"dBG B^AB|"C"c2c g2e "G"d2B|
+"G"Bgg dBd|"C"c/2c/2c/2e/2 ed/2c/2|"G"Bd "D7"fe|"G"dBG "D7"A2^F|"G"G3 -G2::
+A/2d/2|"G"bbg "G"dBg|"C"ece "G"dGd|"C"eee gag|"G"dag gdB G2|
+
+
+
+
+
+
+"G7"G=GB Gd"d"d|"Am"e^fe d2a|"Dm"a2b a2a|"G"g2e d2g|"C"e3 c2c|"D7"d3 -Ad^c|
+"G"d3 G3|"D/a"F3 A2G-|"G"G2^F G2B|^c2B B2^G|"G""37""Em"B2B B3|:"G"G2A GAB|"D7"e3 e2f|"E7"e3 d2A|
+"Am"c3 -e2c|"D"dfe dAF|"Em"EAA Bed|"Em"gee ^efg|"Bm"f2f B2c|
+"Em"BAG E2B|"C"ed^c e2f|"G7"e2B G3|"D7"A2A A2F|"Em"B3 -B2G|"Am"A2^c e2A "F#7"A2F|
+"E7"E2D E2E|"D"F2E "Em"EFG|"A7"A2E F2G|"D7"D3 ^D2E|"G"D2G B2A|
+!dc BcB|"Am"cAF D3|"D7"DEF FEG|
+"G"G2B G2c BAD|"C"GFE2 E2E|"G"D4|"F"F2D CDF|"G"G2G G2B|cde dcB|"C"c3 -e||
+
+
+
+
+"Am"aed ba_g|"D"d3d/2B/2|"D"AF/2E/2 B/2g/2d/2A/2|d/2B/2A/2d/2 "G"GF/2G/2|
+"D"A3/2F/2 D/2F/2A/2F/2|"D"D/2F/2A/2D/2 D/2F/2A/2G/2|\
+F/2E/2F/2G/2 "G"D/2E/2D/2E/2|"D"DD2G\
+:|
+
+
+2"G"bb||
+
+
+%:N:thilson com, via EF
+M:4/4
+L:1/4
+K:D
+P:A
+A/2A/2|-"D"Bd/2c/2 d2|"G"g/2d/2=c/2d/2 ge|"D"dA A/2f/2e/2d/2|"A7"cA ee|"D"d3 -d:|
+
+
+
+
+
+
+"C"gb2g|"C"g3/2f/2e/2e/2 dcB|"C"c2c "F#m"c2e|\
+"F"a2g "E7"g2e|"A7"^ced cBA|"D"d2f b2a|
+"Em"g2g "A7"edc|"D"f2f "G"gag|"D"f3 "Em"g2f|"C"e2c "G"B2B|"D"A2d "Em"dcB|"D"A2d dBc|\
+"D"d2A "A7"AGF|"G"G3 :|
+
+
+M:9/8
+K:G
+d2d |"G"B2B Bcd|"C"e2c "D"dcf|"G"g2f d2d|"D"d2d "A7"cBc|"D"d3 d2:|
+
+
+S:Yly ilson
+M:4/4
+L:1/4
+K:F
+"Em"EF GG|"C"ed c/2B/2c|"Cm"d32|"D7"ff ef|"D7"fB cc|"D7"A2 Af|"G"g3/2e/2 gg|
+"D7"f/2f/2e/2d/2 Ad|"C"ee "G7"d2|"C"cA AG|EG EG|"C7"c2 ga|"G"g2 b2|\
+"Am"ge "Am"e3/2c/2|
+"D"F/2G/2A "Em"G3/2E/2|"D7"DD F2|"G"GD GB|"G7"Bc dc|"F"A2 d2|
+"D7"df fe|"Gm"dg "B7"ag|"Am"ge "Dm"d2|"Gm"eB eg|"F"Ac "G7"Bg|"C"ec cc|
+"C"cd e2|"C"ec "d"dd|"C"eg "G"f2|g/2a/2g/2a/2 -bf|"D"A/2dB Ad|"C"ee ge|"G"d3/2g/2 ga|
+"Am"g/2g/2e/2c/2 cg|"Am"^fa ga|"C"g2 ga/2g/2|ga ag/2g/2|
+"Gm"bf ed|"Gm"bg de|"Am"f/2d/2e/2f/2 ag|"D7"df ef|"G"g2 ed|
+"Eb"g'/2f/2 gg|"Ebagf dA|"Bb"b2 -"F"ac|"G7"bg ge|"Gm"dg gg|
+"Am"ae e2|"Am"ee ge|"Dm"fd dc-|A2 ^AA|"D7"Fc BA|GA FG|
+"A7"AG AB|"A7"cA cc|"D7"df ef|"G"gg eg|"D7"ae2f|"C"ge c2|"A7"e3/2e/2 ea|
+"Dm"a/2a/2g/2a/2 ff|"E7"e3/2f/2 ed|"Am"c/2e/2f/2a/2 g/2a/2g/2a/2|"E7"bf ge|"D"f3/2e/2 fa|
+"A7"gA c2-|"Am"Aa/2a/2 ee/2f/2|"G"e3/2f/2 g3/2d/2|"Am"cB/2c/2 de|
+"D"ff/2^b/2 ad|e|"Em"g2 ef|"Am"gg ce|"D7"de Af|"G"g3/2e/2 e/2d/2c|\
+"C"ce e^B|
+"C"e4|"C"Ed cB|"F"c3/2d/2 cc| "E7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+K:D
+"D7"[c3-B2]|"G"B2 -"D"f3/2f/2|"G"bb"D"g"f"e"g|"C"g2="G"fd|"G""b"f4|\
+"d"d2d/2B/2|"Em"BG"F"A|"G"B3|"C"e3/2d/2c|
+"G"d2g|"G"f2g|"D7"a2g2|"C"g2e2|"G"dGBd|"G"g2B2|"G"b2B2|"G"g3"e"dg|"C"e2e2 "G/b"d2d2|"G"b2a2 g2"D7" d2||
+
+
+P:A
+zDD|F4|"C"e3 e2f/2g/2|"D"a/2f/2g/2f/2a3/2f/2 "b"d2g2|"D"a3/2a/2f3/2e/2 ffa2|\
+"G"g2gg "D"f2g"C7"d2|"G"d3/2g3/2 "C"e4-"G"B3:|
+"D"dfaf agfd|"A"edcd facA|"C"gecf acfe|"B7"dedf "A7"eecA|"D"d3/2B/2AFAA "D"FA"A7"B2|
+"D"AAAd Afef|"A"ecAc "Bm"fedB|"Em"Becc "Em"B3E|"A7"Cefg "D"afdf|"A7"e2ag "D"b2f2|
+"A"ecAc gfAc|edcB afga|"D"f2af ffdf|"Em"gefe "E7"deB^c|
+"A7"ABcA ABcc|"D"F3dd fddf|
+"Em"egee edcB|"A7"A^FAB cAAc|"D"fgaf "G"gddB|[1"Bm"B3A "Em"e2:|
+P:B
+de|"D7"fgaf d2gf|"Am"(3efg"D7"dc "G"B2d2|
+"D"defA "D7/c+"dedc|"G"BB(3dcB "D7"AG(3AAc|"G"dBG(3GB dBG "C"E2CG|"Am"A!ag "Em"efge|
+"D"dffa "D"fAaa|"D/f+"ffAd "Em"g2Bc|"A7"Accc Accc|"D"d2a2 a2fe|
+"G"dBed dBdB|"D"FAF(3DEF A2DF|"E7"BAGE EEFE|
+"A7"cGEA cGEA|"G"Bcdf "A7"efec|"D"d2f2 d2:|
+P:B
+Be|"D"faad daaf|"G"b(e/2dBgf aedd|"A7"gec(3ecB cag|"D"a2gf "A7"ecAc|[1"D"d3 :|
+:
+X: 10
+T:North the Clock Yand
+% Nottingham Music Database
+S:Pohpinpegs, arr Phil Rowe
+M:6/8
+K:C
+P:A
+|:G|"C"c3 "d"d2d|"C"e2c "G7"B2e|"G"ded B2A|"C"G2"C"c A2B|"D7"A2B 
+
+@B#q>I{{*6k<w@>{R@#*<<~<*V~{W~#7&*>@@@>@>%Z&>@@{{>?<*70V@@#>~6ZV{@ZwY#*@x&&@>@<@DZj<R@7{<<>Z]@n@*]#6WVwR@qR@_*@>rk@Z<*G>]{Z?}Z<Z@@>H>[&@@@*8N&@>*kZ{@~Zl:#Z.>R>&#@>&@>r{<ZChZ@{&w{hUOk@*]@##X@q?8*>@n*<&x->@<{>@@<&@V@x?{@{{+TP&{w>@@>@k|Z~5@{<ZVh~@P>}%{*{{T@ZW+O<Zj@~k8{Q{RJ@>~~#{>@{q07#~*@@@@&I><hZZ@Hr.>v>@>h@@<CxG@*@Z&}T+Z>Z~@~@qElm{@Zx@q.@*~V@*hxU{i]}@O}0{@]}!Z&@<@{FZ<Z<:Z{4~u]qkh?{V@@!>>@:{<*w@M*ZTY@/@Q*@}{@q?y@x{&hYE*@@@:Z]*~q@L%@Z@<#~.@@##@Z#m{><_|Z>@!@Z@Z@@@OqY@~V>@><@Z@v>%*<@x&U~v@@>@.@>-}Z&#[1<>@@qh]<]{y@@}T>@@&@*ZQ{s&#~?KZ@>]Z]q*#U@.Yx@@<@{.YJ:{>qZ@T>?>m~+~qZ@<Z@&{['R*qw><Z.&<#*~&@0s@Z>>pIkQ?UEY@@h~{@@y@#{@9>*#q>T%@@)8@.+Z%>{Z}.@@#@qw3@wl@6@&N@@+?@*#Z@@>]E~Nj]w%Z0<k.@]>8>{Z>@q<TQ{&Z>&{]Rk@]k0@OI*{@X@@k.#&Z*_@Z<@q0Y>U#O>~V~{>Z~*~@#>}&@]5RZ*@qZq@{Zx{{*.{@*j>@@
+
+
+
+
+
+%P:AAdBA,oblo?
+M:4/4
+L:1/4
+K:A
+P:A
+E|"A"A/2c/2A/2B/2 cA|"G"B/2c/2d/2B/2 B/2c/2d/2e/2|"D"f/2d/2f/2a/2 fb/2a/2|"A"e/2g/2f/2e/2 f/2e/2d/2e/2|\
+"D"f/2a/2a/2f/2 d
+|:c/2d/2|"A"e/2e/2f/2e/2 "E7"d/2e/2d/2c/2|"A"ce A:|
+P:B
+A/2G/2|"D"FF/2A/2 df|"A"e/2c/2e/2A/2 aa/2f/2|"A"cf/2f/2 e3/2e/2|\
+"D"fg/2f/2 fe/2d/2|\
+"A"ce/2c/2 A/2a/2e/2f/2|"E"B/2c/2d/2e/2 "A"cc|
+"E"c/2B/2c/2d/2 e/2c/2B|"A"c/2B/2A/2G/2 c/2B/2A/2G/2|\
+"E7"B/2c/2d/2e/2 =e/2d/2=c/2B/2|"A"A/2B/2cA c:|
+
+
+
+
+
+
+
+
+
+
+#@<Z9j#>~*@TZU@@#{@@@tj>@#I{@Z@}V>?@{Y]]{+@@@#SuX@R<#<T>#@qp~%H@&{>>@@x>ZZ<Zku~q#>LVwZ>{TZ]~*#J*<#{q:<*KJq{{*>Y#Y~TX>{{>q~]
+
+% Nottingham Music Database
+%P:AAB
+S:Trad, via EF
+M:6/8
+K:G
+P:A
+A|"G"GGB GBd|"G"gag gdB|EGF G2G|"G"G2G G2B|
+"C"cAG "D7"FEA|"G"B2d d2B|"C"cAA "G"G2G|"D"ABA FAG|
+"D"dfd "A7"cde|"D"fcd "Bm"cde|"G"dBG gfg|
+"D"fed "A7"cBA|"D"dcd AFA|"G"BcB "G"G2B|
+"D"fdf fef|"G"gfe ddd|"A7"ABA EAc|"D"d3 d2:|
+
+
+
+
+]h~]RqU%nurarston er pias, ih sow frl Timine
+M:4/4
+L:1/4
+K:G
+Bc |"G"dd BG|"C"ed e3/2d/2|"Am"cA "D7"G/2A/2B/2c/2|"G"dd Bc|\
+"d"d4|"D7"dd c^c|"G"d2 BG|\
+"C"cc-c|\
+"C"G6|\
+d/2c/2 "G"d3/4=c/4c/2||
+
+
+
+
+% Nottingham Music Database
+S:EF
+M:6/8
+K:G
+P:A
+|:D|"G"GBd "D7"efg|
+
+
+
+>@@Y<*q~@@@V{#Z.Z@]>>>F@{ZRU@.@@:@~W>@>{@~&{@@@@<n~Z>?>>>Z%{Z<>7]~O*@<{0*@@@Z@{Z&*ZR@V@>>w{.~]<%>VKR_>RZ~#w%&}>&@@UV>q{@{~>w@@7h~>ZGk@<Nh@>@*3>@{@>>>@@ZJ#um@x#@F}q{j]I*%7{R*7#{@{@V&~L@q@@R<<Z&_@V9{R&U~UTjqZ<@@@Z<]Zh@Z@OV@J]@]]Z3*@@{@{O~>~@w@S6*#ZZh>?H@Vjs{~lbY-P{sx:-@>Zq&X~*{>JJ{uV>@*~x@Z>{@@'@]ZZq~hZ@*#i]hZ@@Z@{V&OhR<p~RV&{*&@@*@<V.*>Z+V{{{q{]NB{NZO@Z.*CXQ**{qxq@V@#?I&{<{+{}NY>x@{!qw@<qV#h@s}'{7Z@@@<Z*@@.JO>@#<@<>]}>-*{@~&N@>~m&>&}yT%{@3#@@@~@{{*}ZJ@+q><I#Z@@m<@q+Z&@<%XM@T}@}Z><]@~7}h&Z@@X@hG>*@Zx}wZ{N*]Z@U+t@.qZX@R]YL{xq+7@8]&Zy@>xZ&Z.UZZ@@&>*<{NZlZ*@@Z#ZU{R>>]WI{>O@#*Z@Z@kq~@~ZZq>*>^]{J<R&U@{<>]~8@G@{Z@#{@Zq&*Z*<#V*x+x8mR@R~{&+#><-U>@*>>?N0?]:}@q]+@k}{><?@@I~*@8>ZZ{&{{+<<@@UZZV>w%@Zt*oZ>xl6T@~D@Z#V@@*@>QJ7VM~]@q@{qVU?Ts8Hw>@>x{@@.&Y@*Zj@&@]]vk>.{@m-MZq~6&]@U*#{~@~]V@#>&>@.0@0&@>-u3U@+&ZO&j@{s5@8U#j}>*<p@&R+*?>.{>>>{{@Xz{<@~><Q>T*>C=J>@@@U{x@#Z<{]>Z^qEZ@{>'?/*DD@.?ql<%*}I@{@Z>E&.<@+F+.*&@@~@K@Z<&&@>X>V<<@>{lI&<@Uo@<@@0Z0&<ZZJ#q
+
+
+
+
+
+
+
+
+
+
+
+>}]d<Z{@|Z@x]Z}ZZ#?ZD~XjsM@{Z{*@k&@>>O8q*q@u{lk*R@@R{DqJ}+jZ{@<@@>}&]N&>{mJ?*7*#{K*>>{&*q{f@H&@@y@~+Y+@Z@@.N@j>@@<&&&>{U&@<Z@q<@#~]Z!0RlQ@{*]hQ{*X@S>~s]@wwZ*?{x%tZ?@{@R>@Z@@I<@k>*>*w{>ZKR>>R{q~*Tq+RWUJ&N@{]nZ}#@R}X2*>@#hV@z&@+0@&&H{]&~'@*&&@<>'@wR@>KN&#{{{ZgZ0&{L@[*@>*vk.8k{@Z]z~ZJ&~tW{Z~@xZZ@@{ZZt*@@@&&+ZZW++N[V.&q.x@{>*Z8Z]%Ot@q*{S>+<#**-V@&qn>+h#>@@bYT@#Z.s~>kU@U@*~>{@Z@J&@@*?<@~@@*&@*HZ@w@FZ}:yW{~&]j>@@<<#Z@G@<:@@Z{V>{Ra]!<~q.F>s~@Q{&&@<YY<q)@@&<@{FlZrV*ZZt&@Z~>>{J<LZ@@+@*Z>T&@@#'+.ZqZ>@&<r#@@ZqR@
+
+*@x]@Z@&@V{x#@Z@>+>lJ@@>Z@@&J@@OJR@s@&&#}q@@@~@*{Zks*@k&?{6@Z@l<q@*Q#@?*>{}&?M>:R{*@@q#r*<~&L&@@nS&5%@<I@@~@*>@*{<>7@@?#@<*>&{?%ZM*&<zX}@{&*><?]|@@<*{&<Q]<hD@{+.H0.@Z@@%k<%J<@{Z>{'&>q*@ZZ>@~@<{!Zl{@@xZ&@Z>Q{Y,Z.*<&@Zx{t<{@<.R]{>*<#{@R{Z@*@@>~o<]h*@@]p@R&_&@KR*&*y>w{@x&V%x@@<<VZU{@@{0}{&{*@@<U*5q+Z*Z@{@s@q@{>@<{-I]{@@UhZq>Z<&@<&.#+.&X{@@>{uGVY&@@J>>>{>N@>@V@@~*<SZ {~q*@qZ&*>Z@@D@@ZZ{*+><O'8Z@{*>Y&v@*~&Z@*<{q<>@@~@v'_{6<{{Y*@]@~N%*><>kq*]{
+
+
+
+
+
+Z<<#V@>0{r<@.>&@{@>q&@Z@>l~ZZsJ&.@>u@{VsZ]>Z<0}@RO*Ut<R@@&I~Z0#{@.~s{v]8@@>_/>@r@*Z{{V&R@@>]@k>@{>s.>T~Zky>@7Z]T{.VN<@@*Z{#>kN<~Zq}<{}Zqq{Z*{{)~@Xs8vN@#@@@@@@>I5>Z@s@xZ@V@5:?q@@q@3+@@{ZUk>]{%n%@?~Z>@R>~}{5?@#w*<c@c#>#&w~**+@@+C{Z@@h?&xZ{JJ&]!O@]?%&@&@&@@@]>#VxuI@{]@@>I{@&&~G>ZZV@q{>@{V+<8Z.>Z~&>=@OI%V{~T>@vX&u&*R@x>^Vs<<@@#~q@<<>@*:ha<>>Q'U>@{&:@@&H@mZVw#@0<@Jz*~L{@K<>{V@@~{K]9s@*kq@<{@@@k>>ZZXI@oUV*Z{>{RTq<V8Z>]Z{M*x*?{]+wE?ZTNl<@<Z{q&V#TJ@>x!?Zk>]*b*@@Zk@~&7Z]h>M{-Z@?<q_i]@ZV>Y#@TJ+k&]H]~@V*.{>'&=.x@Zj@]*#q>,>U#J<N<@Z]@=#O<L]@%.W*x)
+
+
+
+
+
+
+*wn&@>@KzZ><@ZX{E*@@@V#*>q{@>><XZ&&@<]J#>{**>>@@{Z@@{F*u@]kKZ{
+
+
+
+*TSNZ@>#~*]>@?{G@@q@jMV@@@@{x@Kq>@#@q.N+xZWZU}
+
+
+
+
+
+
+

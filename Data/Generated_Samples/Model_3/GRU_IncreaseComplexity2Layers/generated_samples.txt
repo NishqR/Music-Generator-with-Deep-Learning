@@ -1,0 +1,850 @@
+% Nottingham Music Database
+S:Davia Brick, via EF
+M:4/4
+L:1/4
+K:A
+P:A
+c/2B/2|"A"A/2B/2c/2d/2 e/2f/2e/2d/2|"A"c/2A/2e/2A/2 c/2A/2c/2d/2|"A"ec "D"d/2e/2f/2g/2|\
+"A"a/2g/2f/2a/2 "E7"g/2f/2e/2d/2|"A"cA A:|
+
+
+TE3 .ot0a.
+% Nottingham Music Database
+S:Ttan Marder, via EF
+M:4/4
+L:1/4
+K:G
+D|"G"GG "D"F/2G/2A/2F/2|"Em"G/2F/2E/2D/2 "C"CE|"D"DB "D7"A/2G/2F/2A/2|\
+"G"GG G:|
+P:B
+B|"G"dg ed|"C"e/2d/2e/2f/2 gf|"G"ed BG|"Am"A/2G/2A/2B/2 "D7"c/2d/2e/2f/2|\
+"G"ge "Em"dB/2c/2|"Am"dA "D7"cB/2A/2|
+"G"GA/2B/2 cd/2c/2|"G"BG GA/2B/2|"c"c/2B/2A/2G/2 FG|"D7"A2 AB|\
+"G"Gd "Em"ed|"Am"c/2B/2A/2G/2 "D7"FD|"G"G2 G:|
+P:B
+B|"C"e/2d/2e/2f/2 g/2f/2e/2d/2|"G"B/2d/2A/2G/2 "C"F/2E/2D|"D7"FD FA|\
+"G"G/2F/2G/2A/2 "D7"Bd|"G"G3:|
+
+
+P:A
+"A7"FGA Bcd|"D7"A2z A2B|"G"G3 -G2A|"G"B2B Bcd|
+"C"e2e e2e|"G"d2d dBd|"Am"c2A "D7"AGF|"G"G3 G2:|
+P:B
+|:c/2d/2|"C"e2e efe|"C"e3 e2f|"C"g2e efg|"C"a3 e2f|"G"g2f "G7"g2f|
+"C"edc "G"B2A|"C"GEE "D7"F2D|"G"G2G BAG|"G"d3 d2e|"G"dBG "C"c3|
+"C"e2g "C"efg|"C"age "G"dcB|"C"cde "G"dcB|"Am"cBc "D7"ABc|"G"d3 G2:|
+
+
+M:3/4
+L:1/4
+K:C
+E|"F""c"F3/2G/2 "f"A"g"B|"F"c3/2d/2c|"F"cdc|"G"BD|"C"G3/2c/2|"Gm"d3/2c/2B|\
+"C"c/2d/2c/2B/2A|"F"A4|
+"C"c3/2c/2e|"F"f"F"f|"C"e2c|"F"A3/2B/2A|"C"G3/2G/2F|"G"G3/2B/2"D7"A/2G/2|\
+"G/b"G2"C"G|"F"A2"C7"B|
+"F"A3/2B/2A|"C/G+"G"G"D"F|"Dm"cB"A7"A|"G/b"GA"F"A|"G/b"G2"C"e|"Dm"d2"C"c|"Dm"d2"D7"A|"G"B2"b"d|\
+"C""C"e/2d/2c/2B/2A|"C/e"G/2F/2"C"E/2F/2|"G"G2:|
+
+
+"C"gbg ecd|"C"efg edc|"G"d3 g2g|"F"fca agf|"Em"gfg "A7"a2a|
+"C"gab "G"aba|"C"gec "G"dBG|"D7"FEF "G"G2::
+A|"G"Bcd edc|"G"B3 -d2g|"G"dge dBG|"Am"cBc "D7"def|"G"g2G "C"G2e|\
+"G"dBg "D"def|
+"Em"g2e "Bm"f2d|"C"edc "G"B2F|"Am"EAc "D7"ABc|"G"d2d ded|c1 "D7"A3|
+"G"Bcd edc|"G"Bdg agb|"C"gfe "G"dBG|"D7"ABA "G"G3::
+"D"def "C"gfe|"G"dBd "C"efe|"G"ded "D"def|"G"gfg gfe|
+"D"fga agf|"C"=cge "G"dcB|"G"AGB "G"dcB|"Am"ABc "D"def|
+"G"g^ga "C"gfe|"G"d2B BAB|"C"cde e3|"G"dBG "D"Adf|
+"G"gag "C"gfe|"G"d3 "C"c3|"G"ded "C"cac|"G"Bgg "D"adf|"Em"(3efg "G"b2a|
+"C"gce gfe|"G"ddg "C"e3|"G"deg "D"fga|"Em"bae "D""f#"d3|
+"C"cBc "G""D/d+"Bde|"C"cde "G""b"dBG|"C""Am"Aag "G"dBG|"D"Acd "G7"e2f|
+"C""C"gfg "G"B2g|"C"ece "G"dBG|"C"cde "G"dcB|"D"A3 -F2:|
+
+
+"Em"G2E "A7"CE2|"D7"F3 FED|"D7"F3 -cAA|"G"G3 -G3|
+"C"E2F E2F|"G"G3 G2B|"D7"d3 -d2c|"G"d3 "D7"d3|"G"g2^d e2g|"C"e2e g2e|"G"d2B "Em"B2e|
+"Am"e2d "D7"cBA|"G"Bcd d2c|"G7"def d2G|"C"c3 -"c7"G3|"G"G2G D2G|
+"A"A2B c2d|"Em"e3 e2f|"G"g2a bag|"D7"a2f d2f|"G"g2d B2B|"Am"A4 "D7"A2B|"G"G3 -G2||
+
+
+"A"a2b a3|"Em"gfe dcB|"A"ABA "E7"GFE|"A""f"A3 A2:|
+
+
+"Em"B/2c/2d/2B/2 "d"c3|"Bm"B/2c/2d/2e/2 ^f/2d/2e/2f/2|"Em"g3/2e/2 "D""f#"dA|\
+"Em"G3/2F/2G "A"CF/2G/2|
+"D"A/2B/2A/2G/2 F/2G/2A|"G"B3/2c/2 Bc/2B/2|"A"c/2B/2A/2z/2 "Em"EE|\
+"F#7"F/2G/2A/2B/2 "Bm"AD|"Am"C/2E/2A/2E/2 "D"D2|:"D"FF "A7/e"EF/2G/2|"D/f+"A/2d/2A/2d/2 "G"d/2B/2G/2B/2|"D"AF DE|\
+"D"F/2A/2d/2e/2 fe/2d/2|"A"cA A:|
+P:B
+g/2a/2|"Em"b/2g/2b/2b/2 "A"f/2g/2a/2g/2|"D"f/2a/2b/2a/2 "A7"g/2f/2e/2d/2|\
+"D""f#"de "A7"fa/2f/2|"D"d/2f/2e/2d/2 "G"B/2d/2B/2d/2|
+"D"AA/2A/2 "c#"B/2A/2F/2A/2|"D"d/2F/2d/2A/2 "Em"B/2A/2G/2d/2|\
+"A7"e/2f/2e/2d/2 Ac/2B/2|
+"D"A/2F/2D/2F/2 A/2F/2D/2F/2|"D"A/2B/2A/2F/2 F/2A/2d/2A/2|\
+"Em"B/2c/2d/2e/2 "A7"f/2d/2e/2c/2|"D"d3:|
+
+
+\
+"E7"be "A7"dc/2B/2|"Am"A2 A:|
+
+
+"D"D3 DDC|"D"F3 F3|"D"A2A FGA|"G"BfG "A7"A2G|"D"FGA "G"GAB|"A7"A3 -"D"D2:|
+
+
+fgf edc|B1 B,=G3|"Em"G2d B2e|"F#m"f2f f2e|"Bm"d4 d2B-\
+P:C
+-G|"A7"ABc "D7"def|"G"g2d "A7"Bcd|"D7"cAF CFA|
+"G"BGB dB=c|"G"BcB "C"ABc|"C7"ABc "Em"BGE|"Am"cAA "Em"GEE|"Am"A2A "G"BAG|
+"Am"AAA eAA|"Am"AGA "Em"BGE|"Am"AGA "G"Bcd|"Em"e2f "A7"edc|"D7"ded dBA|
+"G"G3 G2A|"G"B2B B^AB|"C"c2d edc|"G"B,GG GAB|"Am"ABc "D7"def|
+"G"g2g de=f|"C"ecc "G"BBc|"Am"dcB "D7"A3|"G"G2G Gcd|"C"ecA "G"B2c|
+"Am"d2e "D7"fcA|"G"G2B "G7"d2e|"C"d2c Bcd|"C"e3 "G7"a2g|"C"e2e e2e|"C"c2e def|
+"C"e2e "C"d2e|"G7"d2B "C"c3|"G"d2d d2g|"D"f^de fdd|"C"e3 -edf|
+"C"e2g gfe|"G"d2c Bcd|"C"e3 "D7"d2c|"G"B2B Bce|"C"c2c "C"edc|
+"G"Bcd "C"efg|"C"age "G7"d3|"C"ede G2G|"Cm"A2c "G7"B2c|"C"d3 -d2e||
+"Am"a2g "C"age|"G"dBG GAB|"C"cde "G"dcB|"Am"c3 "D7"c3/2d/2c|
+"G"BAG B2A|"G"GAG G2B|"C"cde "G"dcB|"Am"A3 "D7"A3|
+"G"dBG GBd|"C"efg g2e|"G"dBG GAB|"C"c3 e2g|
+"F"fef "C"gfe|"G"d2B GFE|"C"AcB "Am"A2G|"Am"EEA "D7"G2a|
+"G"glg "C"ecg|"G"dBg "C"ece|"G"d^cd "D7"dcB|"G"d2B G2:|
+
+
+"D"f2d a2d!|"D"f2a "G"g2f|"D"f2e "A7"f2e|"D"dcd "A7"Bef|"D"a3 -d2:|
+
+
+"C"G3 cBc|d3 -dcB|"C"c2d c3|"Am"G2c "D7"A3|"G"d3 c2B|"G"d3 "C"e2d|"Am"cBA "D7"B2c|\
+"G"d3 -d3|
+"Em"G6|"Em"e6|"Em"g3 e2f|"Am"e3 "D7"d3|"G"d3 -d3|"C"e3 d3|"G"c3 Bcd|"Am"c3 A3|"D7"d2c d3|"G"g3 "D7"fg||
+"C"e3/2c/2 cd|"C"e2g e2d|"G"d3/2c/2B "Em"AGF|"Em"G2E "G"G3/2F/2|"G"G4-|\
+"G"G3||
+
+
+id=gwb76 a4
+M:2/4
+L:1/4
+K:D
+A/2|"D"dF F/2c/2A/2F/2|"D"FD FA/2G/2|"D"FA df|"A7"e/2d/2c/2d/2 e/2d/2c/2B/2|\
+"A7"A/2B/2c/2d/2 e/2g/2f/2e/2|
+"D"dc/2d/2 "A7"ed/2e/2|"D"ff ff/2e/2|"D"da "A7"fe/2d/2|"A7"cA AB/2c/2|
+"D"dA/2G/2 F/2D/2F/2A/2|"G"B/2G/2B/2d/2 "A7"c/2d/2e/2c/2|"D"df "D7"df/2g/2|
+"G"g/2e/2d/2B/2 AG/2A/2|"G"Bd "A7"c/2d/2e/2c/2|"D"dd d::
+e/2f/2|"G"g/2f/2g/2a/2 "A7"b/2a/2g/2f/2|"Em"e/2f/2g/2f/2 "A7"e/2d/2e/2f/2|\
+"G"gf "E7"e/2d/2c/2B/2|"A7"AA A/2B/2c/2d/2|
+"D"ed/2c/2 BA|"G"Bg/2f/2 "A7"e/2d/2e/2f/2|"Em"be "A7"ec|\
+"D"d/dc/2d/2f/2 "A7"e/2c/2e/2c/2|"A7"eA/2c/2 "D7"B/2d/2e/2f/2|
+"G"gb/2a/2 "A7"g/2f/2e/2d/2|"D"dd d/2c/2B/2A/2|"G"B"Em"G "A7"EF/2G/2|
+"D"A/2F/2D/2F/2 A/2F/2D/2F/2|"D"A/2F/2D/2F/2 "A7"Ad|"D"F2 "D7"G/2F/2E/2D/2|\
+"G"DB/2A/2 GB/2d/2|"Em"E/2f/2e/2d/2 "A7"B/2G/2A/2G/2|"D"FD D:|
+
+
+"G"g3 |"Em"b3 "B7"a2g|
+"Em""C"e3/4d/4c3/4"B3"D"d3/4c/4 "G"d3/4c/4|"D"d3/4e/2 ff|"Em"e3/4d/4c3/2B/2 "Am"A3"D7"A|\
+"G"G3 G2:|
+
+
+"C"e3 e2c|"C"e2e edc|"G"B2d d^cd|"C"ecA cBc|"D7"def "G"gdB|"C"cBc "G"BAG|
+"Am"EAA "D7"ABc|"G"BGG G3|"C"e2e "G"dBG|"D7"A2d "G"BAG|"C"E2F "G7"G2:|
+
+
+E/2F/4|G/2E/2E/2A/2 F/2G/2A/2F/2|"G"G/2E/2G/2B/2 "C"=c/2B/2c/2=d/2|\
+"A7"e/2d/2e/2f/2 "D"d/2f/2e/2d/2|
+"G"BB/2A/2 B/2c/2d/2e/2|f/2e/2d/2e/2 f/2g/2a/2a/2|\
+"D"f/2^A/2B/2d/2 "A7"g/2f/2e/2d/2|"G7"cB A:|
+
+
+ :"D"d2d ddd|"C"=cBc dBG|"D"A3 -AFG|"D"A3 "D7"=cBA||
+"Em"G2e "A7"B2g|"D"fed "A7"cde|"D"d3 -def|"G"g2f "Em"e3|"A7"c3 dcB|
+"D"A2d Bcd|"D"A2d "Bm"A2B|"Em"G2B "A7"A2^c|"D"d3 -d:|
+
+
+"A"AcB cBA|"D"d3 f2e|"D"d2c d2F|"A"EAc e3|
+"A"A2c cBA|"D"d3 -def|"Em"gfe "D"dcd|"Em"Bcd "A7"cBc|"D"d3 d2:|
+
+
+M:6/8
+K:D
+f|"D"a3 a2f|"D"d2a aba|"C"=cdc =cBe|"D"d3 -d3::
+"D"f^A dfe|"G"d2c B2d|"E7"e2d B2d|"A"c3 -cBc|"D"d2d def|"C"=g2d e3|"A7"age cAB|
+"E7"e3 e3|"A7"c2e c3|efg fed|"A7"cBc def|"G"g2f e4|"A7"c2c cBA|
+"D"d2d dcd|"D"f3 efd|"A"cec A3|"G"B2B Bcd|
+"A7"c2A AGB|"D"A2f "A7"ecA|"G"Bcd "A7"ecA|"D"d3 -d2:|
+
+
+"A7"e/2d/2c/2B/2 A/2G/2F/2E/2|"D"D2 d2:|
+
+
+K:D
+D/2A/2d f/2a/2g/2f/2|"A"e/2c/2A/2c/2 e/2g/2f/2e/2|"D"dd d::
+F/2G/2|"A"Ae/2e/2 e/2a/2e/2c/2|"D"d/2e/2f/2g/2 a/2f/2d/2f/2|\
+"A"a/2g/2a/2e/2 f/2a/2e/2a/2|"D"df d::
+f/2g/2|"D"a/2c/2a/2f/2 a/2c/2f/2e/2|"D"d/2e/2f/2g/2 af/2g/2|\
+"A7"a/2g/2f/2a/2 "G"g/2f/2e/2d/2|"A7"c/2A/2B/2c/2 "D"d/2e/2f/2g/2:|
+
+
+M:3/4
+L:1/4
+K:A
+"A"c2 "E7"c/2d/2c/2B/2|"A"cc "E7"G/2B/2A/2G/2|"A"CA Bc|"D"d2 d:|
+"D"ff f2|"A"e/2e/2e/2e/2 fe|"Bm"fe/2f/2 "E7"gf/2e/2|"A"c3/2A/2 cB|
+"F#m"AB/2c/2 de|"G"=Bd/2B/2 AG|"A"A/2B/2c/2A/2 "Bm"B/2c/2d/2e/2|"E"b2 "A"ag/2f/2|\
+"E7"ee/2f/2 "A"ee/2c/2|
+"A"BA \
+%P:3
+d/2B/2c/2B/2 A/2B/2c/2d/2|"A"ec/2B/2 A/2c/2B/2A/2|\
+"A"cA/2c/2 "E7"B/2A/2G/2B/2|"A"AD E:|
+
+
+"Bm"d2B "F#m"cAF|"Em"GAB "A7"ABc|"D"d3 d2||
+
+
+% Nottingham Music Database
+S:Mick Peat
+P:AAd
+M:4/4
+L:1/4
+K:A
+"A"A,/2A,/2E/2A/2 c/2B/2A/2F/2|"A"E/2F/2A/2B/2 AB/2c/2|"D"d/2c/2d/2e/2 c/2A/2B/2c/2|\
+"A"A/2B/2c/2A/2 "E7"B/2c/2d/2e/2|
+"A"a3/2g/2 a/2e/2c/2a/2|"A"c/2B/2A/2c/2 "E7"B/2A/2G/2A/2|"A"AA/2c/2 "E7"B/2A/2G/2B/2|\
+"A"A/2B/2c/2d/2 "E7"e/2f/2g/2e/2|"A"cc/2A/2 "E7"B/2A/2F/2A/2|
+"A"c/2A/2c/2d/2 ee/2f/2|"E"g/2e/2d/2c/2 "E7"B/2A/2G/2B/2|\
+"A"AA/2B/2 A/2B/2c/2d/2/2|
+"E"e/2e/2e/2f/2 e/2f/2g/2e/2|"A"a/2A/2e/2A/2 f/2A/2e/2A/2|\
+"D"f/2g/2a/2f/2 "E7"d/2e/2d/2c/2|"E"BA "A"A2:|
+
+
+%M:3/8
+K:G
+K:G
+P:A
+B/2c/2|"G"d2d dcd|"C"e2d "Am"cBA|"G"BGG "C"c2c|"G"ded "D7"cBA|"G"G3 G2:|
+P:C
+c/2d/2|"C"ede "G"dcB|"C"cde "G"dBG|"C"EGA "G"Bcd|"C"ecc "G"dBd|"C"efg "G"d2d|
+"C"ecA "G"dcB|"C"cde "G"dcB|"C"cBc "D7"B2A|"G"G3 G2:|
+
+
+
+
+
+S:Mick Peat
+M:6/8
+K:G
+d|:"G"g2d e2B|"D"d2G "D"A2A|"G"B2d ded|"C"c2d c2B|
+"Am"ABc "D"def|"G"gfg "D"fag|"A7"e2c BAG|"D"Add "Bm"f2d|
+"Em"gag fga|"Em"geg "D7"f2d|"G"g2g Bgd|"C"e2e efg|
+"D"afd faf|"G"g2d e2d|"C"edB "G"G2ce|"A"fed cBA|"Em"GBd g2:|
+"C"edc eGA|"G"Bdd "D"A2A|"G"Bcd "D"Adf|"G"gag "D"fgf|
+"C"edc "G"BAG|"D"FEF "D"GFE|"G"DEF GFG|"Am"ABc "D"def|
+"Em"gfg "Bm"a2a|"G"ggg "D"fga|"Em"gfe "D"d2:|
+
+
+A3/2F/2|"D"DFA "D"dfe|"G"dBd "D"A/2d/2A/2F/2|"A7"A/2B/2A/2B/2 c/2B/2A/2G/2|\
+"A7"EF E3/2F/2|
+"G"GA/2B/2 "A7"c/2B/2A/2G/2|"D"FA "A7"A/2B/2A/2G/2|"D"FD G:|
+
+
+P:AAB
+S:Kevin Briggs
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+P:A
+(3DEF|"G"G2G2 "C"G2(3DEF|"G"GFGA "G/b"BGED|"Cm"GFGA "G"BGAB|"C"cdec "G"BAGF|"Em"G2(3BAG "D"F2(3ABF|\
+"Am"GABc "D7"dBAG|"G"d2g2 d2:|
+P:B
+fg|"C"gfec "G"dcBA|"G"GBcd "C"cdef|"G"gfga gdBc|"G"dedB "D7"A2(3def|
+"G"gfed bdef|"C"agec "G"dBG2|"C"cdef "G/b"cBcd|"Am"cBcA "D7"dcBA|"G"G2(3GFE "D7"F2(3ABc|
+"G"dcdc "C"B3"D"c2|"C"eagf "G"edga|"C"gfed "D7"gfed|"G"d3 "D7"B2c2|"G"d2e2 "C"ecd2|"G"g2(3agf "A"edeg|"D7"fAdf agfa|
+"G"gbab "Em"agag|"Am"edef "G"dgfe|"D7"dcBA "G"G2:|
+P:B
+(3def|"Em"g2gf "A7"ecea|"D"bgaf "Em"g2ed|"Am"cBAg "D7"fefg|
+"G"b2ag dgaf|"G"gfga gdBc|"G"dBge dcB2|
+"Am"cBcA "D7"d2gf|"C"ecde "G"dcBA|"A7"GFEA "D7"DFAG|"G"G2G2 G2:|
+
+
+|:"D"FdA FAd|"D"faf "A7"gec|"D"d3 d2:|
+
+
+"E7"^G4B/4c/4d/4B/4|"A"A3/4B/4c/4A/4 E/2F/2D/2E/2|"D"F/2A/2F/2A/2 D/2F/2F/2D/2|\
+"A7"B/2^G/2A/2B/2 c/2B/2A/2G/2|"D"F/2D/2F/2D/2 "E7"EF/2G/2|
+"A"A/2B/2^c/2A/2 E/2c/2A/2F/2|"A"EA A/2B/2c/2d/2|"A"e/2d/2c/2B/2 "D"A/2c/2d/2f/2|\
+"A"e/2c/2A/2c/2 e/2d/2c/2B/2|"A"ac A:|
+
+
+P:AAB
+M:4/4
+L:1/4
+K:G
+P:A
+D|"G"GG G/2A/2B/2c/2|"G"dG GA/2B/2|"C"c/2B/2c/2d/2 c/2B/2A/2G/2|\
+"Am"FA "D7"Ad/2c/2|
+"G"BG G:|"C"G/2E/2G/2E/2 AG|"D7"F/2G/2A/2B/2 c/2d/2c/2A/2|\
+"G"G/2A/2B/2c/2 "G7"dd|
+"C"eg "C"g/2e/2d/2c/2|"G"BG GG/2F/2|"Am"EA "D7"A/2c/2B/2A/2|"G"GB G:|
+P:B
+B/2c/2|"G"dg gB/2c/2|"G"BB dB/2d/2|"C"cB/2c/2 "D7"d/2c/2B/2c/2|"G"dB dd:|
+"G"ge d/2e/2g/2e/2|"G"dB B/2A/2G|"C"c/2B/2c/2d/2 e/2d/2c/2B/2|\
+"Am"c/2B/2A/2G/2 "D7"FD|"G"G2 G:|
+
+
+R:On dlomdy-mom frusipe
+M:4/4
+L:1/4
+K:G
+P:A
+D|"G"G2 "D"A2|"C"e2 e2|"G"dd e3/2d/2|"Am"dB A3/2G/2|"D"FA cd|"C"e2 f3/2e/2|"G"dB "D7"AB/2A/2|
+"G"GB B3/2c/2|"G"dB ed|"C"GB GB|"G"dg "C"ec|"G"de "D7"fd|"G"d2 "D7"ed|"G"dB Gd|"C"e/2f/2ge "G"dB|"Am"AB "D7"cA|\
+"G"G3:|
+
+
+"D"faf fed|"A"c2e a2e|"Bm"def "E7"efg|"A"a3 -a2||
+
+
+M:6/8
+K:D
+d/2e/2|"D"f2f def|"A"e2c A2c|"Bm"d2c B2c|"Em"ded "A"c2c|
+"Bm"d2c d2c|"Em"B2c "A7"B2A|"D"F3 A3|f2f f2f|"D"f2a a2f|"A7"e2c ABc|
+"D"d2A F2D|"A7"EFG B2c|"D"d2c "Bm"B2A|"Em"GFE "A"EFG|"Bm"DFA "Em"G2e|
+"A"A3 -A3|"D"A2d AFD|"Em"E2F G2A|"A"BAA c3|"D"Add "D7"dcd|
+"G"e2d "D"A2f|"A"e2d c2e|"D"d2e f2g|"D"a2f "Bm"fed|"Em"e3 "A7"ABc|"D"d3 d2::
+A|"D"F2F DEF|"G"G2F E2D|"A"A2A "G"Bcd|"A7"e3 -eBc|"D"d3 def|"A"e2c ABc|
+"D"d2d def|"A"g2c A3|"D"f2d "F#m"A2c|"Bm"dBB "E7"e2d|"A"c3 A3|
+"A"e2d c2d|"A"e2e f3|"A"efe "G"dcB|"D"A3 "F#m"A3|"Bm"f2e d2e|"Em"dcB "A"ABc|"D"d3 \
+||
+
+
+P:B
+A/2|"C"G/2A/2G/2C/2 D/2E/2C/2E/2|"C"G/2F/2E/2D/2 "G7"G/2B/2A/2G/2|\
+"C"E/2G/2E/2G/2 c/2G/2G/2G/2|G/2G/2D/2G/2 B/2c/2d/2e/2|
+"F"ff/2c/2 f/2c/2A/2c/2|"C"c/2e/2g/2e/2 "G7"c/2B/2A/2G/2|"C"cA c:|
+
+
+% Nottingham Music Database
+P:AAB
+S:Adnon 3en Silnion, via PR
+M:4/4
+L:1/4
+K:D
+d/2e/2|:"D"ff/2f/2 fg/2f/2|"A"ec cd/2c/2|"G"B/2A/2G/2F/2 "Em"E"D"F/2D/2||
+"G"D/2E/2D/2E/2 "D"F/2G/2A/2F/2|"G"G/2A/2B/2c/2 "D"dA/2F/2|"Em"CE "A7"EF/2G/2|\
+"D"A/2F/2D/2F/2 "A7"A/2B/2A/2G/2|"D"F/2D/2E/2F/2 "G"G:|
+
+
+M:4/4
+L:1/4
+K:A
+P:A
+c|"A"e/2d/2c/2e/2 "E7"d/2c/2B/2d/2|"A"c/2B/2A/2c/2 "E7"BE|"A"A/2B/2c/2d/2 e/2f/2g/2e/2|\
+"D"d/2c/2d/2e/2 "E7"d/2c/2B/2A/2|"A"AA A:|
+
+
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+de/2f/2|"G"g2B Bcd|"A7"e2c A2G|"F#m"FGA "Bm"B2A|"Em"G2A "A"BcA|
+"D"d2A F2D|"Em"EFG "A"ABc|"Bm"d2c "E7"B2A|"A"A3 -A2:|
+B|"D"Add fdd|"A"ceg ecA|"D"d2f aba|"A"gfe "E7"edc|
+"A"A2c edc|"D"agf "A7"edc|"D"d3 -d2:|
+
+
+% Nottingham Music Database
+S:Ireland, via PR
+M:4/4
+L:1/4
+K:G
+DE F|"G"G2 G2|B^A Bc|"G"d2 d3/2^d/2|"C"e3/2d/2 cA|"G"B2 d3/2e/2|"Am"dA "D7"Bc|"G"d3B|"Em"G2 G2|"Am"cc dB|"D7"c2 A2|
+"Bm"Bc gf|"C"e3d|"C"e2 "G"d2|"e7"BA Ad|"C"c3/2d/2 ef|"G"gd BG|"A7"c3/2d/2 cB|"D7"AG FE|
+"G"G2 d2|"C"c4-|"Am"e2 ga|"G"gf ed|"A7"cB Ag|"D7"fd cd|"G"e2 d2:|
+"C"ee e3/2f/2|ee d2|"G"g3/2B/2 dB|"G"GAB|"Em"G3/2E/2 "F"FE|"G"DG Bd|"C"e3/2f/2 ef|d2 dB|\
+"G"d3/2e/2 "D"dc|"G"Bc "D7"d2|"G"G3B/2d/2||
+"C"e3/2d/2 ce|"G"d3B|"C"c2 e2|"G"d2 Bd|"C"g2 fe|"G"d2 d3/2d/2|"C"ed cd|"Am"e3d|"D7"cBc|"G"d2 g3/2f/2|"C"ed cd|\
+"Am"e3/2f/2 ea|
+"Em"be de|"C"eg/2e/2 "G"dB|"Am"c3/2B/2 "Dm"AD|"C"EG cA|"G"G3/2E/2 "D7"DE|
+"G"GD "D7"E3/2G/2|"G"Bd "C"ed|"C"ce g2|"C"e/2d/2e/2f/2 gd|"G"e/2dg/2 "C"ca|"Em"G3G|"Am"AB cG|\
+"D7"cA AB|
+"G"G2 "D7"Gd|"G"G3/2F/2 GG|"C"EG cG|"C"GE "D7"GD|"G"G3||
+
+
+"Em"GFE "A7"EDE|"D"FFF "G"GFG|"A7"BAG D3/2E/2|"D"FD -DE|"D"F2|-FF|"G"GA/2B/2 "A7"AG/2F/2|\
+"D"D3"D7"A/2F/2|
+"G"GA/2G/2 BG|"C"A2 -E2|"G"GG/2B/2 dc/2B/2|"Am"AA "D7"A3/2F/2|"G"G2 G||
+
+
+P:B
+z/2|"Am"a3/4e/4f/4e/4 "D"d3/4c/4d/2g/4|"F"a3/4g/4f/2a/2 "G"gab|"Dm"f/2b/2a/2g/2 "D7"fd|
+"C"g4|"C"e3/2e/2 ef|ge c/2B/2c/2d/2|"C"e/2f/2g/2e/2 "G"dd|"Am"ec A:|
+
+
+%P:AAB
+S:Vic
+M:4/4
+L:1/4
+K:A
+P:A
+e/2d/2|"A"cA A/2B/2A/2F/2|"A"E/2F/2A/2B/2 d/2c/2B/2A/2|"Bm"dc/2B/2 c/2B/2A/2G/2|"A"FE "E7"EF/2G/2|
+"A"A/2B/2c/2d/2 e/2f/2e/2d/2|"A"c/2d/2e/2f/2 ef|"E7"g/2e/2c "E7"Bg|"A"ea/2c/2 "Bm"B2|\
+"A"A/2B/2c/2A/2 "E7"B/2c/2d/2e/2|"A"fe "E7"ed|"A"c/2e/2A/2c/2 "E7"B/2A/2G/2B/2|"A"AA4|
+"A"AA/2B/2 c/2B/2A/2c/2|"E"de fe/2d/2|"A"cA/2c/2 "E7"BB/2A/2|"A"CE "A"A3/2B/2|\
+"A"cc/2c/2 "E7"B/2A/2G/2B/2|"A"AA A:|
+
+
+P:A
+A|"D"dF D2d|"A7"cde ABc|"D"d3 "A7"d2g|"D"fef def|"D"d3 -d3:|
+P:B
+|:a/2g/2|"F#m"fec "A7"ceg|"D"fda a2a|"D"f2a gaf|"Em"edB "A7"Afa|
+"D"aba "G"gab|"D"fga "C"gec|"Bm"dBd "Em"e2d|"A7"cBc dec|"D"d3 -d2:|
+
+
+P:A
+M:6/8
+K:C
+"C"cGG GEE/2c/2|"C"GAG "F"cdc|"G"BGG dcd|"C"cAc "C"G'2c/2_B/2|
+"F"=FAc fAF|"Dm"fed "Am"cBA "G"BGG|"Am"A3 -A2:|
+
+
+S]ed BDg-I|\
+P:aupon c
+B3|\
+P:ico
++A2f +\
+P:size
++E2f ++af+a|\
+K:C[
+"Fm"fe fe|"Bb"d3 "F7"cBA|"Bb"Bcd F2F|"F7"CAc BAA|"Bb"c3 B2^c|
+"Dm"dAF DFA|"Bb"ded "F7"cAF|"Bb"BcB "F7"A2A|"Bb"FBA F2F|"F"CFF FAF|"F"C3 -A2:|
+
+
+|"Em"cB "A7"Ad/2c/2|"D"d33/3|
+
+
+%:Nottingham Music Database
+S:Kevin Briggs, via EF
+M:6/8
+K:D
+P:A
+d/2e/2|"D"f2f fed|"A7"c2e a2g|"D"f2f d2f|"A7"ecA ABc|"D"d3 d3::
+P:B
+A/2G/2|"D"F2A F2A|"D"FAd f2e|"D"d3 d2g|"A"a2e d2e|"G"def gBc|"D"d:d d2B|A2F A2A|
+"D"d2d f2a|"G"gfg "A7"e2g|"D"feA "A7"dAF|"D"D3 "A7"EFE|"D"D2f dcd|"D"ABd dcB|\
+"D"A3 "A7"A2A|"D"ded dAF|"Em"A2e "A7"ABc|
+"D"d2f a2f|"D"def dAF|"D"ABA "G"Bcd|"A7"eAf gec|"D"d3 d2:|
+P:B
+a/2g/2|"D"f2d fga|"G"b2g "A7"f2e|"D"d3 d2d|"A7"c2e ABc|"D"d3 d2:|
+P:B
+|:A/2B/2|"A7"c2e gfe|"D"d3 "A7"ABc|"D"dFE DFA|"D"dfd "A7"egf|
+"D"ded "A7"c^AB|"D"def "A7"gfe|"D"fdd "A7"edc|"D"d3 d2:|
+
+
+P:D.S.
+E|\
+
+
+P:3
+-D/2
+"Am"E/2AC/2 AGA|"G"BGB "C"c2e|"G"dBG "Em"EGB|"Am"dAF "E7"E2:|
+P:B
+A|"G"B2G BAG|"D"A2d "A"cAG|"D"dff "Em"ecA|"Em"BGE E2:|
+P:B
+A|"D7"fag fed|"G"gbb dcd|"Am"EAc ecA|"Em"Gee "A7"ed^c|"D7"d2c BAd|
+"G"dBd gfG|"C"ege "G"dBG|"A7"ABA "D7"AFA|"G"BGB "D7"dAF|"G"G2G G2:|
+
+
+|:"Em"efe e2d|"C"efg "G"dBG|"Em"edB "Am"c2:|
+
+
+S:Playford
+M:4/4
+L:1/4
+K:G
+P:A
+|:"G"G/2A/2B/2c/2 "F"d/2c/2B/2c/2|"D"d/2G/2A/2F/2 "G"Gd/2c/2|\
+"G"B/2"D"A/2F/2D/2 "G7"D/2E/2F/2G/2|
+"C"cE/2G/2 "D7"F"G"G|"C"E/2G/2E/2C/2 G/2E/2G/2D/2|\
+[C/2E/2F/2G/2B/2A/2 +G/2B/2+"D/2E/2|"D7"F/2D/2E/2F/2 "G"GG::
+"G"GB/2G/2 (3G/2B/2d/2^c/2d/2|"G"B/2G/2D/2G/2 "G7"G/2B/2d/2e/2|\
+"C"c/2B/2c/2e/2 "G"d/2B/2G/2B/2|"Am"A/2c/2A/2B/2 "D7"c/2d/2g/2a/2|
+"G"gb/2a/2 g/2f/2e/2d/2|"G"c/2B/2A/2B/2 "C"e/2f/2g/2e/2|\
+"G""g"d/2B/2d/2B/2 "D/a"c/2d/2c/2B/2|"Em"G/2A/2B/2G/2 "Am"A:|
+
+
+"A"c2e cde|"D"f2f f3|"A"ecA Ace|"D"fga agf|
+"Em"gag "B7"fed|"Em"eef "A"eag|"D"fge "A"e2c|"Bm"d2B "E7"dcB|"A"A3 -A2||
+
+
+E|Bcd edc|"D"def "Am"eAA|"D"dfa "A7"gcB|"D"A3 f2:|
+
+
+% Nottingham Music Database
+S:Regeling Jomle, via EF
+M:4/4
+L:1/4
+K:G
+B|"G"G3/2A/2 BB|"C"cB "Am"AG|"D"FE "D7"FD|"G"G3/2A/2 Bd|"C"c2 c2|"D7"AB cf|"G"e2 d3/2e/2|"C"dG "D7"cB|\
+"G"G2 "C"c3/2B/2|"G"DG "Em"G2|\
+"Am"A2 "D7"B2|"G"G2 "D7"c2|
+"G"B2 "D7"c2|"G"Bc dB|"G"g2 g3/2f/2|"C"e3/2d/2 cd|"F"ed2"a7"e3/2d/2|"Am"cA "D7"dc|"G"B2 "D7"A2|\
+"G"G2 "C"G3/2E/2|"G"GB "Am"A2|
+"G"Gd "D7"de|"G"d2 B2|"C"EG "A7"AG|"D7"A3/2G/2 AD|"G"Gf "C"ec|"A7"AG "D7"FE|"G"D2 G2|"G"Dd "C"ed|\
+"Am"c3/2B/2 "D7"cA| [1"G"G3:|[2 "G"GG G2:|
+P:B
+|:(3a/2g/2f/2|"Em"g/2f/2e/2d/2 ^cd|"C"ee e3/2d/2|"G"dB Bc|"G"dg/2e/2 dG|"Am"AG "D7"FE|
+"G"Dd "D7"d/2c/2B/2A/2|"G"G3:|
+
+
+% Nottingham Music Database
+S:EF
+M:6/8
+K:G
+P:A
+(3D/2E/2F/2|"G"G3 "C"g2e|"G/b"dBG "C"AGE|"G"FGA "D7"BcA|"G"G3 -G2:|
+P:B
+d/2c/2|"G"BAG GFG|"Am"ABc "D7"ABc|"G"d3 "C"g2e|"G"dBG "D7"ABA|
+"G"G3 "C"g3|"Am"edc "D7"def|"G"g2f "C"e2c|"G"dBG "D7"EFG|"G"G2G G2:|
+
+
+P:A
+B/2c/2|"G"dg/2f/2 "C"e/2d/2e/2f/2|"G"g/2e/2d/2c/2 "G"B/2d/2d/2B/2|\
+"D7"cA/2F/2 D/2F/2A/2c/2|"G"B/2G/2"D7"A/2F/2 "G"G2::
+e/2f/2|"Em"g/2e/2f/2g/2 a/2g/2f/2e/2|"D"d/2f/2f/2e/2 f/2g/2a/2f/2|\
+"Em"g/2e/2f/2e/2 "G"d/2B/2G/2B/2|"Em"e/2f/2g/2e/2 "Am"f/2e/2d/2A/2|\
+"D"FA/2c/2 A/4d/2c/2d/2|"D"e/2d/2c/2B/2 "G"A/2B/2d/2e/2|
+"A7"^c/2e/2a/2e/2 f/2e/2d/2c/2|"D"d/2e/2f/2g/2 "Am"a/2g/2e/2f/2|\
+"G"g/2f/2e/2f/2 "Em"g/2f/2e/2d/2|"Am"cA A:|
+
+
+"A7"efe d2c|
+"Em"BAG "F#7"FGF|"Em"E2e edB|"A7"Aef /3|"D"f3 a3|"Em"bag "A"a/2g/2f/2e/2|
+"Em"dcB "A7"ABc|"D"dBA ABA|"D"dfa "A7"gec|"D"d3 :|
+
+
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+A|"D"d2f a2f|"G"aba "A7"gfe|"D"fga "Em"g2e|"A7"dcB A2a|
+"A7"Afg agf|"A7"e3 d2e|"D"faf "A"efe|"G"dBB BAG|"D"FAA def|
+"Em"g2g ede|"D"fgf faf|"Em"edB "A7"ABa|"D"aba "A7"gfe|"D"d3 -d4:|
+"A7"deg gef|"D"afd fcd|"D"Adf "Em"e2d|"A7"cBc ABc|"D"d3 -d2:|
+
+
+"G""D"fdA "C"g3|"C"ege "G"d3|"C"cGe "G"dBG|"D7"FED "G"G2:|
+
+
+"C"ecc cde|"F"fdf cBd|"G7"ede gab|
+"C"gcc edc|"Gm"ded "Cm"dcB|"Dm"AGF "Gm"GAB|"C7"cde "D7"faf|
+"C"Ggc "Gm"B2G|"C"cBc "Gm/b"dcd|"C"cde "Gm"dcB|"C"ABG "C7"cde|
+"F"f3 f2"C"e2|"C/g"gfg "C/dim"edc|"G"Bde "G"d2G|"C"cBc "G""G"BAG|"C"EFG "G"D2:|
+
+
+"E7"e3/2d/2 cB|"A"A4:|
+
+
+P:3
+A|"D"FA FA|"G"BG "A7"GA/2G/2|"D"B/2A/2A/2F/2 "A7"EA/2G/2|\
+"D"F/2d/2A/2F/2 "A7"EA/2B/2|
+"D"A/2B/2A/2F/2 "A7"dA/2d/2|"A7"f/2d/2e/2c/2 "D"d2:|
+P:B
+D/2F/2|"A7"AA/2e/2 g/2e/2c/2e/2|"D"f/2d/2f/2a/2 "G"g/2f/2e/2d/2|"Em"c/2A/2B/2G/2 "A7"A/2B/2c/2d/2|\
+"A7"e/2c/2B/2A/2 "D7"dd/2c/2|
+"G"BG/2B/2 "D7"A/2F/2E/2F/2|"G"GA/2B/2 cd/2c/2|\
+"G"BG G||
+
+
+e|:"D"f2f d3|"D7"f2f f3|"G"d2e "C"c2B|"A7"AB^G "D"F3|"E7"E2^A B2c|
+"A7"d2a gfe|"D"d3 -d3|"G"b2a gfg|"D"a2f "A7"def|"G"g2f "A7"edc|"D"d3 -d2||
+
+
+
+:DD Dolmgnon !enners Mary
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:C
+G|:"C"G2E C3|"C"CGc edc|"G"B3 G3|"C"e3 AGA|"G"B3 -GBc|"G"dgd dcB|
+"C"cde c2B|"Cm"c3 -cBc|"G"d3 -d2c|"G"BdB G2B| "Am"Adc "E7"B2e|
+"Am"A3 -c2e|"D7"d2c B2A|Bcd e2^e|"G"d3 B2c|d2B G2G|"C"e3 e2G|F3 -FEE|"C"G2G F3|
+"C"EEE F2E|"G"D3 G3|"C"e2e e2e|"G"d2d B2d|"C"c2B A2B|
+"C"c3 -c2B|c3 c2c|"G"B^de d2c|d2B "G/f"cBA|"Em"B3 E2F|"Em"G2^F "G"G3:|
+
+
+\
+P:A
+f/2g/2|"A7"aea bag|"D"agf "A7"ede|"D"fdf fga|"A7"aec ABc|
+"D"def Afa|"Em"gfe edc|"A7"ABc "D"d2:|
+
+
+"G"b2g fga|"A7"gag edc|"D"def agf|"Em"e^ce "A7"a2g|"D"fdd d2::
+F/2G/2|"D"A3 ^F3|"Dm"A2B AEF|"Em"G2G "A7"EFG|"D"A3 -A2:|
+
+
+% Nottingham Music Database
+S:Lesley Dolman
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+P:A
+(3DEF|"G"GFGA "D7"G2FE|"G"DBGE DEFG|"Em"A2G2 "Em"G2a2|"Am"ABcB "D"A2(3GEF|
+"G"GFGA BAGF|"C"E3D/2D3/2ED cBA|"G"G3 G3|:"Em"GFG "D7"E2D|"G"G3 G3||
+P:B
+dcB|"D7"A2F A2D|"G"G3 -G2A "D7"Bcd|"G"g2g gfe|"Am"c2c "D7"B2A|\
+"G"G3 -G2:|
+
+
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+"A7"D2G |"D"F2A d2e|f2d f2d|"D""A7"F2G A2E|"D"A2F D2E|"D"D2E F2G|\
+"A7"A3 -A2A|"D"d2A FED|
+"D""f#"A2A " ""a"A2c|"G"B2B "D"A2B|"A"c2B ABc|"A7"d2c a3|"D"fdd "A7"edc|"D"d3 -d\
+||
+
+
+"Dm"aba "G7"bag|"F"=f/2f/2f/2f/2 fc|
+"C"cB c=c|"Bb"d/2c/2B/2c/2 "F"AA:|"Bb"Bd "F"c2|\
+"Bb"dB/2c/2 "D7"B2|"Gm"d/2c/2B/2A/2 "C7"G/2A/2B/2c/2|
+"F"dc/2d/2 "F"cA/2G/2|"Cm"c2/2c/2 "G7"Bd|"C"c/2B/2c/2d/2 c/2B/2A/2G/2|\
+"F"F/2A/2G/2F/2 "F7"G/2F/2E/2c/2|"F"F2 D:|
+
+
+"Bm"f3/2^f/2 "Em"ge|"C"=c/2B/2c/2e/2 "G"d/2B/2G/2B/2|"A7"A/2f/2e/2d/2 c/2B/2A/2C/2|"D"FD D:|
+
+
+% Nottingham Music Database
+S:Kevin Briggs, via EF
+M:6/8
+K:C
+P:A
+|:G/2A/2|"Em"Bee edB|"Em"def gfe|"Em"BcB "D7"AGF|"G"G3 G2:|
+P:B
+g/2a/2|"G"bgg aag|"D"faf "Em"gag|"D7"fdf agf|"G"gag ged|"Am"cBA "D7"Afg|
+"G"bag "D7"agf|"C"edc "G"BAG|"C"c2e "G/dim""C"age|"G"dBG "D7"FED|
+"G"G3 GAB|"C"c3 cde|"G"d3 d3|"G"dcd B3|"Am"cdc "D7""d"B2A|"G/b"G2A "E7"B2B|
+"Am"A3 -A2G|"D/f+"A3 "Em"A2B|"A7"A3 G2A|"D7"BAF "G7"G3|"C/e"e2e "D7/a"c2c|"G/d"d2B "G/b"G2B|\
+"C"c3 "D7"d3|
+"G"G2G DGB|"G/d"cBG "C"e3|"C"cde "G"d3|"G"G^AB "C"c3|"G"dBG "C"c2e|"G"dBG "D7"FED|"G"G3 -G2:|
+
+
+AA|dAg fed|ccd ecz|
+Af fed|f2g fed|\
+K:F
+P:E
+"Cm"c2e e2e|"C7"def G2G|"F"A2A cea|"C7"g2c e2d|"F"c3 -cAB|"C"cbg ecd|
+"C"ecc edc|"F"dcB AGF|"C"GcG Ecc|"F"cAc edc|"Gm"BAG "C"FGA|"G"BGG G2:|
+
+
+P:B
+D|\
+K:D
+"D"DJE2 E2:|
+P:B
+f/2g/2|"D"a2a aba|"A"g2g "D"f2a|"A"ceA ABc|"D"d2f "A7"e2A|\
+"G"Bcd "A7"e2a|
+"D"f3 agf|"D"efa faf|"D"fga "A7"gfe|"D"B3 "A7"A2f/2g/2|
+"D"afd dfa|"G"gec "A7"ceg|"D"fed dcd|"Em"eec "A"A2a|
+"G"bag "D/a"fga|"A7"gec "D"d2f|"A7"ecA ABc|"D"d3 d2:|
+
+
+"D"d2f "Bm"def|
+"Em"g3 "A7"de:|2"D"f3 "A"e3|"D"f3 d2||
+
+
+% Nottingham Music Database
+S:Bob McQuillen Jan 1977, via PR
+M:4/4
+L:1/4
+K:A
+"A"A2 A/2B/2c/2A/2|"D"dc dF|"E7"EF G3/2E/2|"A"FE -"E"DE|"A"FA "E7"Bc|"A"A2 -"E7"cd:|
+"A"e3e|"A7"e/2a/2e/2f/2 ed|"A"c=B c2|"A"e/2f/2e/2c/2 AB|"E7"c/2B/2c/2d/2 ce|"A"A4|"A"EA/2c/2 B/2A/2A/2c/2|"D"d3:|
+
+
+"E"D3 B,ED|"C"C4|"C"CEe =cBE|"C"GEC "G"D3|"G"BDG B,3|"G"G4|
+"C"E2A GFE|"G"D2G F3|"C"EFG D2F|"G"G3 -G3|"A"Ec^c dcB|"A7"c3 -cBA|
+"A7"c2e gfe|"D"d3 -dcd|"Em"e2e "e/f+"d2c|"Em"B2c "A7/c+"BcB|"D"A3 -A2F|"D"G2F E2F|
+"G"G3 D2G|"D"A2e f2e|"D"d3 d2d|"Am"c2A "D"Adf|"E7"e3 ef=f|
+"A""f#"f3 a2f|"Em"e2e "A7"efg|"D"a2f "D"d3|"G"d2e "C"e3|"D"d3 "A/c+"c3|"Gem"B3 -A2B|"D"A2^G A2d|
+"D"F2A A2F|"Em"E3 -"A7"E3|"D"F2A d2c|"G"B2B "D"A2A|"G"G2B d2B|"Am"A3 A2A|
+"D"d2a f3|"D"a2d Adc|"Bm"d2f f2f|"Em"e2f edc|"G"B2c dcB|
+"D"A2A f2e|"D"f2f "Al"fed|"D"d2f "A7"e2A|"D"d3 d2:|
+
+
+S:Alling Tom (Fat the Bridg
+% Nottingham Music Database
+S:Bob McQuillen Jan 1974, via Phil Rowe
+M:6/8
+K:G
+d|"G""G"B3 Bcd|"C"e3 e3|"G"ded "D7"cBA|"G"G3 GAB|"Am"A3 "D7"Adc|"G"d3 -d3|"C"g2e gfe|
+"G"d2g "C"e2c|"G"d2B "C"c3|"C"ede G2G|"G"D2D "C"E3|"G"D2G "C"G2E|"G"DEF "C"GAd|"G"G2B "D"A2B|
+"G"G3 G2A|"G"B2B BAG|"G"B2c d^cd|"C"e2d cBc|
+"G"d2d d^cd|"C"e2c "D"B2A|"Em"G2E G2e|"C"c3 -c3|"G"B3 B3|
+"Am"A2G C3|"D7"F2A B2A|"G"G3 -G3|"G"d3 -B3|"D7"A3 -A6|"G"d3 -A2B|"C"c3 c3|"G"G^FG B3|
+"A7"A^GA c2B|"D7"A3 -F3|"G"G2G D2G|B2d d2B|"Am"c2c cde|"D7"d3 -dcd|
+"G"e3 d3|"G"d3 -d2c|"G"B2B B^AB|"C"c2d edc|"G"B3 d3|
+"G"G^CG GAB|"C"c3 edc|"G/b"d3 "D7"cBA|"G"G3 G2:|
+
+
+S:Eline's Fancy
+% Nottingham Music Database
+S:Kevin Briggs, via EF
+M:6/8
+K:G
+P:A
+|:D|"G"G2G D2G|"G"B2G "D7"A2D|"G"G2G "D7"A2A|"G"B2c dBG|"C"c2c e2c|"C7"edc G2E|
+"G"DFA d2F|"C"EGF "G"D2c|"C"edc "G"BAG|"Am"FAF "D7"DEF|
+"G"GAG Bdc|"C"e2e ede|"D"fdf "A7"ecA|"D7"dAF DEF|
+"G"G2A "C"B2A|"G"dAB "C"cec|"G"dBG "C"EGB|"Am"AEA "D7"cdc|"G"B2G GAG|"Bm"FGF "Em"E2:|
+P:B
+|:d/2e/2|"F#7"f2g a2a|"A"a2a a2g|"E7"efe dcB|"A"A3 -A2:|
+P:B
+|:c|"A"BAG EFE|"D"AFA def|"Em"g2g gfe|"E7"cdc BcB|
+"A"A2c efg|"D"afd dcd|"A"ecA acA|"Bm"BcB "E7"dcd|"A"e3 "E7"e2d|
+"A"cAA cAA|"E7"BAG edc|d2e dcB|"A"AAA "E7"Bcd|"A"c2A Ace|
+"D"fga fga|"Em"gfe "D"daf|"A"ecA "D"dfg|
+"E7"agf "A"ecA|"E"B3 "A7"A2G|"D"FDF AGF|"Em"EFG "A"AFA|"A"A3 A2:|
+P:B
+d|"A"cde e2c|"D"fef "A"efg|"D"fed "C"cBc|"D"dcd "E7"def|"A"e2A "E7"dcB|
+"A"A2c EFG|"D"ABd "A"cAg|"D"fBd "E7"efg|"A"a3 -a2||
+
+
+"F7"cA A/2G/2F/2E/2|"Gm"D4d,|
+"Cm"E,3/2C/2 Db|"C7"ed c/2d/2e/2f/2|"Cm"g2 e2|"Gm"f2 "Cm"e2|\
+"Cm"dc "F7"dc|"Bb"B3 "F7"FA|
+"Bb"BB B/2A/2B|"C"cc c/2d/2c/2B/2|"C7"cA GA/2B/2|"C7"cB c/2B/2c/2d/2|"Am"eA Az/2\
+P:/4
+%%M:1/8
+"B7"^d3/2e/2 ff|"E7"e2 e3/2e/2|"A"ce e2|"Bm"dc "E7"Bc|"Bm"d3 c2||
+
+
+"A7"ef^g "D"a4|"A7"a^ga ba=g|"F#7"f3 "E7"efg|"A"a3 a2a|"F#m"a2a a3|\
+"Bm"aba "E7"e2d|"A"c3 cBA|
+"A"c2e e2c|"Bm"dfd "A"cBc|"G"d3 -d2g|"A"aec ABc|"Bm"dcB "E7"dcB|
+"A"A2A AGA|"E"B2B e2f|"E"e3 e2d|"A"cec A2c|
+"E7"B3 -B2d|"A"e2d c2A|"E7"B2e e2f|"A"e3 -ABc|"D"B2d def|"A"e2c A2c|
+"Bm"B2A B2c|"E"d3 -d2c|"A"efG Ecc|"D"ded fdA|"D"faf def|"Em"g3 -e2A|"E7"Bed edB|"A"A3 -A2||
+
+
+"A7"efg "D"f2d|"A7"ecA ABc|"D"d2f d2:|
+
+
+
+
+
+%/:AAB
+S:Geonc Boll
+% Nottingham Music Database
+S:Kevin Briggs, via EF
+M:4/4
+L:1/4
+K:G
+G/2E/2|"G"DG GD|"C"GG GG|"G"BG GG|"Am"A2 A2|"D7"cA DF|"G"G2 G2|"C"ce ec|"Em""C"Ge "Em"Gd|\
+"Am"B/2c/2B/2A/2 "D7"GF|"G"G2 G:|
+P:B
+d|"G"gd e/2d/2^c/2d/2|"Am"ee "D7"d/2e/2d/2c/2|"G"BG G:|
+
+
+M:4/4
+L:1/4
+K:D
+A/2|"D"FA/2F/2 "G"E/2D/2F/2G/2|"A7"A/2B/2c/2A/2 B/2c/2A/2G/2|"D"FB/2F/2 A/2F/2A/2d/2|\
+"Em"B/2e/2e/2d/2 "A7"c/2d/2e/2c/2|"D"d3::
+f/2g/2|"D"a3/2f/2 "A7"g/2f/2e/2g/2|"D"fd f/2a/2f/2d/2|\
+"G"B/2d/2e/2d/2 "A7"c/2A/2B/2c/2|"D"d3A/2G/2||
+"D"F/2A/2d/2f/2 a/2f/2d/2f/2|"Em"e/2d/2e/2f/2 "G"g/2e/2d/2B/2|\
+"A7"A/2A/2e/2A/2 c/2A/2e/2c/2|"D"d/2e/2f/2e/2 d2:|
+
+
+B B A/2G/2A| A/2B/2c/2B/2 A/2B/2c/2B/2|AG/2F/2 F/2F/2A/2F/2|\
+"Em"EE E::
+B/2A/2|"Em"BGB efg|"F#"F3/2F/2 FA|"Em"G^F/2G/2 A/2G/2F/2G/2|"Am"C3/2E/2 Dz:|
+"Dm"F/2G/2F/2E/2 DD|"G"B/2c/2d/2e/2 f/2e/2e/2c/2|"Am"A/2A/2A/2c/2 "G"B/2G/2"Am"A/2G/2:|
+|"Dm"D/2D/2F/2A/2 dA/2F/2|"Dm"d/2c/2B/2c/2 B/2A/2G/2F/2|"Em"E/2F/2G/2A/2 "Am"FE|\
+"D7"D"d"E "b"G2||
+P:C
+"Em"e3/2d/2e|"Am"eee "F#m"efe|"Bm"d3 "E7"e3/2d/2|"Am"cA A:|
+
+
+"F"afA ACA|"D"pfde "C"=gfe|
+"Bm"dBd "G"gfg|"F"afa "C"geg|"C"=ceg "G"gdB|"C"ccc "C"Bcd|"F"cAA "G"GB::
+"C"c2c edc|"G"ded "D7"cde|"G"dcB "D7"ABA|"G"G2G GAB|"C"c2B A2F|
+"C"G2E "Dm"D2F|"G"G2G "C"GAB|"C"cde "G"dcB|"D7"cAF "G"G2:|
+
+
+
+
+
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:Bm
+B|"Bm"dBB dcB|AEF GFE|"Bb"DFB "Bb"ABc|"Bb"BdB "Eb"G2E|
+"Bb"F2G "F"A2c|"Gm"B2G "Gm"BAG|"Eb"GFG "A7"AB^c|"Dm"d3 -d2:|
+
+
+"Dm"a3/2b/2 af|"G7"b3/2a/2 gf|"Cm"g3g|"Eb"g3/2f/2 "F"f2|\
+"Eb"g3/2a/2 "C7"gf/2e/2|"F"f3/2c/2 Ad::
+"F"cA cA|"Gm"BG/2B/2 "F"cA|"Gm"GFG "C"GA/2B/2|"F"cA A/2d/2c/2A/2|"F"AF FA|\
+"Gm"G/2A/2G/2F/2 E:|
+
+
+P:B
+|:A/2d/2|"Am"efe "Em"dcB|"Am"cAD "Em"E2"D7"F|"G"G3 G3:|
+P:C
+|:B/2c/2|"G"ded dBd|"G"BGG G2A/2B/2|"C"cec "G"BAB|"Am"cAA "D7"ABc|
+"G"ded "D7"cAc|"G"Bcd "D7"ABc|"G"BGG G2:|
+P:B
+G/2A/2|"G"BGB "G7"A2d|"C"ece "G"deg|"G"dBd "C"edc|"G"BGG dcG|"C"EcB "G"BAG|
+"Am"ABA c2d|"Am"edc "G"Bdc|"G"BGG G3-|"G"BGG B2d|
+"Am"cd^c "D7"dAF|"G"GBd "C"efe|"G"dBG "D7"AEF|"G"G3 -G2||
+
+
+|:D|"G"BGB "D7"AFA|"G"BAG FGA|"G"Bgd "D7"cBA|"G"G3 G2:|
+
+
+%M:3
+D: FAt! bwond Brodley
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+A|"D"f2d ABc|"G"d2B "D"A2d|"A"c2B ABc|"D"d2c FEF|
+"D"A2B A2F|"A"EDE "D"F2A|"D"dcd "Em"efg|"D"f3 -f2f|"A"e2c e2A|\
+"D"d2A d2f|
+"D"a2f d2f|"A"efe c2A|"D"d2e fed|"Em"gef g2a|"A7"gfe GAB::
+"D"d2e f2d|"D"Adf "A"a2g|"Bm"fBf fef|"Em"gfg
+efg agd|"A7"cde efg|"D"fed "A7"ABc|
+"D"dcd f2e|"D"f2f fed|"A"eAA cAA|"D"ded "G"dBA|"Em"BGE E2::
+A|"D"DFA d2a|"Em"bGf "A"efg|"D"faa "A7"gag|"D"fdd "A7"gfe|
+"D"f2A dfa|"Em"gfe "A7"gag|"D"fga "A7"gfe|"D"dfd d2::
+A|"D"FGA "G"G2A|"D"dBA "G"gfe|"D"faf "Bm"def|"Em"gag "F#m"faf|"A7"edc "D"d3:|
+
+
+"A"a3/2g/2 fa|
+"A7"ag fe|"D"dF GA|"G"Bcd e3|"F#m"A2c "B7"BAG|"E7"E3/2c/2 Bc|"A"BA G2:|
+
+
+P:den
+A/2B/2|"A7"c3/2B/2^A/2B/2 c/2B/2c/2d/2|"Am"e3/2c/2 "D"AT/2d/2|"Am"c3/2B/2A/2=G/2 "Em"AB/2c/2|\
+"Am"d3/2c/2 "D7"Bc|"G"d3/2e/2d "D7"cBA|"G"G3 G2:|
+
+
+P:B
+c/2d/2|"Am"eAA eAA|"G"dBg gfg|"Am"ecA (3ABc(3AFA|"Am"AFA "E7"FEA|"Am"ecA A2:|
+
+
+"A"A4-|"D"A"G"G BAG|"D"F2A d2F|"Em"EGF "A7"E2A|
+"D"dcd "A7"edc|"Bm"fed "E7"fed|"A7"cBc ABc|"D"d3 -d2:|
+
+
+"F#m"a4|"B7"bb2 gfg|"E7"e2e efg|"A"alg agf|"D"f3 -f2e|
+"D"f2a aga|"Bm"b2a b2a|"G"g2b b2a|"Bm"b2b "A"a2g|"D"f2a agf|
+"Em"e3 -e2e|"Bm"f3 d2f|"Em"e2e efg|"A"a2e A2e|"Bm"fgf "F#m"edc|"Bm"B3 "F#7"A2^c|
+"G"d3 -d2e|"D"f2f "F#7"e2d|"Bm"d2f "E7"def|"Bm"g3 -a2a|"Bm"b2f "C#m"g3|"F#m"a2e "Bm"f2e|
+"E7"d2B c2d|"A"e3 e2c|"F#m"A3 "D"A3|"E7"G2e dcB|"A"A3 -A2||
+
+
+"A7"ABg fed|"D"e2[f2f3f3]|"A7"c/2e3/2e "A7"a^cg|"D"f2d d2:|
+
+

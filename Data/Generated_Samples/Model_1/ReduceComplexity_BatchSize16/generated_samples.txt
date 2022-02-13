@@ -1,0 +1,1191 @@
+S:Teharos
+M:4/4
+L:1/4
+K:G
+B/2G/2|BB A2|"Am"A^G AE|"G"GG BB|"D"c2 -F2|\
+"Am"A2 F2|"E7"GA Ed|"G"d3d|"D"dd "E7"cB|"G"G2 "F"FF|"D7"G2 A2|"F"c33|
+"D"F2 E2|"Em"E2 c2|"C"A2 B2|"C"Ad d^B|"Bm"Bc c2|"G""D"dc Bg|"E7"e2 ed|"D7"A2 FB|"D7"A2 cf|
+"A7"ed ef|"D"d3/2d/2 Af|"G"gg "F7"g2|"Am"e2 ^e3/2a/2|\
+"Em"b'2 d2|"E"dd "G/3"B2|"D"d2 -d2|"A"a3/2e/2 ge/2c/2|"G"dB Be|\
+"D"fd "A"cB|"D"dB d2|"Eb"ed "A7"A2|"Bm"GA "D7"c^G|"D"A2 "Em"E2|"A7"AG FF|"D7"FE Ae|"G"G2 c3:|
+
+
+i:DDarrl Poltiil Dolres, via Phil Rowe
+M:6/8
+K:C
+P:A
+::g- A/4e/4f/4s|o"Em"a3/2f/2 d3/2=c/2|"A7"cc Bd|"D"d2 e2|"G"B3 "Em"d2|\
+"A"Ad af|"D"a3/2f/2 a2|
+"Am"ae ea|"D"f2 e^a|"A7"ef ee|"G"b3/2f/2 -e||"G"dd ec|"F"A2 e2-|"G"cB "Em"ed|"D"ef "G"gf|"C"g3|
+"A"c2 e2|"D"af fa|"D"dd e2|"C"ce cB|"D7"c3/2B/2 de|"D"e3/2c/2 A2|"D"A3/2G/2 B2|"Em"B2 B2|"E"c2 d2|"G"B2 G2|"C"d^c e2|"D"e2 ad|
+"Ab"cA AA|"Am"cg ge|"Em"e2 de|"D"cd fe|"Em"Bd "A7/e+"fe|"A7"d/2c/2A "D7"c3|
+"Em"G^G ED|
+"D"E2 EF|"Dm"AE EF|"D"FA DE|"Em"DG DD|"A"FA A2|\
+"D"DF A3|"D"FD F2|"Em"A3o|"G"B3"A7"E|"E7"E2 E2|-
+"A"A2 A2|"A7"B2 B2|"Em"GG "D/a+"c2|
+"Bm"Bc "D7"c2|"D"dB cc|"Em"B2 "E7"F^(3A/2e|"D"d/2A/2F/2E/2 "D7"D:|
+
+
+M:6/8
+K:A
+P:A
+|:a/2e/2|"D"f2f faa|"D"afg "A7"a2e|"Dm"feg "A"e2f|"G"g4|"D"a2g |
+"Eb"b2e ddf|
+"Em"fgg "A"a2a|"F"g3 fgg|\
+"D"d2A A2A|"C"B2F eAA|"Em"B2B "A"AGA|"E7"G3 "D"DA(3F/2E|"Em"B,,EGE B3,2|\
+"G"B2"G"B "F7"d2f|
+"F"f2f "E7"ffg|"A"f2c "G"ecc|"F#m"dfg "A7"ggf|"E"cBG "A7"AAA|"G/f"cBG "G"B/2B3/2A|"C"B3 -d2:|
+P:B
+A|"A7"A3 "E7"gcd|"A"c3 -A3/2A/2A|"G"Bcd "A7"Ace|"A"e3 A2:|
+
+
+P:ehBs 6afran
+M:6/8
+K:A
+P:A
+(3e/2f/2f/2|"D7"ggf g2e|"G"dgd "F7"d3|"G"dfB Bdc|"G"GEG GAd|"G"gdd AGG|
+"C"cBG "A7"Bbd|"G"e2d dBc|"G"dBB "D7"cdc|"D"g3 f2d|"G"d^Af "D"fef|"G"gfe "G"e2d|
+"G"d2g "G"dBB|"G"BBG "Dm"FAc|"G"BAG "G"G2:|
+b2d|"Em"d2e dBc|"D"dcd ced|"D7"d2f "A7"aff|"Am"dBd f2d|
+"A7"c2e g2g|"D"g2d "D"afd|"Bm"dBB cdd|"G7"dcB G2:|
+
+
+M:4/4
+L:1/4
+K:G
+"F"cB "G"fe "G"B/2G/2G/2^A/2|"G"dd "D"cA|"D"dd fd|"Bm"BB "A7"A2/2c/2|"Em"e2 BG|"Em"B2 "D7"c2:|
+P:B
+E/2B/2|"A"A/2A/2c/2c/2 Be/2c/2|"Em"eB Bd|"D"BG "A7"F3/2d/2|\
+"D"g/2d/2d/2c/2 "E7"A/2A/2A/2d/2|
+"D"de "B7"d2|"A"f3/2e/2 ef|"D"dd "A7"ee/2f/2|"A"ee "Em"f3/2c/2|"E7"B2 ^-d2||
+
+
+i:Peirl G4
+M:6/8
+K:A
+B|"G"B2B G2F|"Em"DGA "A7"acA|"C"ced BBG|"A"G2D "A7"A4|
+"D"FFA e2d|"G"dbB Ged|"G"dFA BBc|"D"e2d -B2A|"Em"G3 -D2:|
+
+
+M:4/4
+L:1/4
+K:D
+P:A
+f/2d/2|"G"G/2B/2G/2G/2 BA/2B/2|"G"GG "D"c:|
+P:D
+-c/2c/2|"D7"cF GF|"D"FD FF|"G"d3-|dd dc|"E7/f"G4-|"D"A3/2A/2 Ac|"F"F2 C2|"Bm"Bd "G"BB|\
+"Em"G3|:|
+
+
+K:C
+"Am"d2e ^gag|"D"f3 f2e|d2d d2d|"G"dBe d3|"C7"e2d "D7"c2A|"G"BGF G3||
+P:B
+d2|"G"B3 "C7"cAA|"D"G2F "G7"D2B|"C"c2G E2A|"G"BcB Geg|"F"f2d e3|"C"e3 -ddc|c3 ^df||
+P:B
+a3|"G"gge BcB|"C"d3 -B2 B3|"B7"g3 d2B|BGG D2F|B3 -B3:|
+
+
+% Nottingham Music Database
+S:Eavin Riags, via EF
+M:6/8
+K:G
+FD(3B/2A"G"E|"G/b"P2"D"dg "D"e2Ac|"Gm"B3 d2B2 G3|"G"dAE DGG "G"GGAd|"G"BGGG "G"B3D|"G"D2B2 -22:|
+P:B
+dc|"C"e2f2 gecc|"Am"A2c3 "C7"cBBG|"Cm"EFEA "Dm"FDDD|"D"F3 |E2:|
+P:C
+d2|"G"bfgg "G"g2e2|"G"dcBB "G"BBBc|"G"G3 B2||
+
+
+M:6/8
+K:G
+f|"C"ecB "A"c2B|"G"G2d "G"ddc|"G"G2G G3|"G"GGG "C7"BFG|"G7"GGA gge|G3 d2:|
+P:B
+C/2A/2|"G"BGB BAB|"G"BBB BBc|"D"fef "G"dBd|
+"Gm"gde ^ggg|"C"g2f a/2e3/2f|"Em"e2B Bfe|"D7"f3 "D7"gdc|"Am"d2c dBA|"Em"Bcd "C#7"d2c|
+"Dm"G3 -(3de^c|"Am"BcA A2c|"D"eff add|
+"G"g2A c2d|"G"BcB dde|"C"ddd ecc|"A7"A2E "A"A3|"Em"BBB "D7"A2F|"D"AA3 e2g|
+"Am"g2f ggg|"G"d3 GBG|
+"G76"GBB B2c|G2G "C"BAB|"D"AFE "A7/A+"A2(3c/2c/2c/2|"D"ged "E7"Bdd|
+"Gm"ddd "Am"d3|"Em"B3 "D7"A2A|"G"G3 -EAA|\
+
+
+S:3 Dhrweats
+M:6/8
+K:A
+"G"d2d Bcc|"Am"egf e3|"D7"AAe eed|"Em"BBe afe|"G"f3 B2d|"D"a3 f2e|"G"efd "Em"e2g|"D"ffe "D7"fgg|"D"ffg "D"zd|"G"c2d "C"d2(3G/2F/2F/2|"D"FAA "D7"AGF|
+"G"BBB DGA|"C"ddc "A7"FAc|"Am"GcB "D7"ABA|"D"FED A3:|
+
+
+K:G
+P:A
+GF|"G"GABA "G"d3dB|"G"GFGB "G"BcBA|"Em"C2DE G2AF|"C"AB^dd dBAB|"D"ADDA A2Ac:|
+P:B
+
+
+M:6/8
+K:A
+A|"D"A/2AF "D7"F2D|"C"B2E BBB|"G"BEF Bdd|
+"G"B2B "G"BGE|\
+"Dm"AAG ABB|"D"F2E D2D|"G"B3 -cAG|G2G G2C|GGG B2c|"F"c2A "D7"AAE|\
+"G"DGB GGG|"Dm"EFA "A7"A2A|"D"A2D DAA|
+P:=c
+c||"C"edc deB|"Am"AGF c2c|"G"Gde gdb|
+"G"gdg "A7"e2c|"G"GBd ddf|"D"adf aag|
+"Am"fgg "D"ecA|"C"BDF "A7"BBc|"D"cFD "D""F7"GFA|"Bm"d3 "A"c2g|"D"f2e f2e|"A"g2f aaf|"Am"aBc "A"e2d|"A7"f2f f2f|"D"aff d2d|"D"efe "D7"efa|"Bm"fBB "G"B3|
+"D"A2e g2f|"D"fAA ccF|"D"FAd fag|
+"A"a2e "B7"e2f|"D"adf "B7"agg|"F"fdd "Em"edd|"C"g2a "Em"ege|"A7"dBc "Bm"AGE|"G"GBB G2:|
+
+
+M:1/8
+K:G
+P:A
+A|"D"BBA A2A|"A" cfd Aeg|"G"gfg aed|"A"e^ce dBA|"G/f"d2e "Em"gfg|"G"gfg "A7"ccA|"G"e2d "F7"ddd|
+"Em"Edd "D"fee|"Gm"dBG "C"df(aea|
+"G"ggb "G"gfg|"D"fbf "Em"e2d|"D"cae "F7"dBA|
+"G"d2d "G"dGB|"C7"Ade B2:|
+
+
+M:6/8
+K:G
+P:AEA
+FF|"G"GAcd "A7"A3F|"Bm"E2A2 E2F2|"D"F2AA A2Ac|"Em"GcdB "D"A2EF|"G"G,dFB "Am"A2c^G|"D"AFcG "Em"cBGA|"D"ABcF "E7"G3:|
+
+
+M:6/8
+K:A
+P:A
+(3||
+P:B
+"D"Abd dcA|E2A B2A|"D"f3 A2d|"A7"d2c ecA|"Bm"B3 ded|\
+"D7"A2A A3|"G"B2B "C"ABD|"Em"E2E F2A|"C"GBd "A7"e2d|"G"BAA "D"ABB|"G"B2G G2:|
+P:B
+|:a|\
+"Em"e3 d2f|"G"e2G G2G|"D"F2A "A7"cdd|"A"A3 d2A|"G"B"D"Ed Acc|"D"d2f "D"afg|"Am"f2e "A"fBc|"G"e3 -e2:|
+P:A
+e|"A7"a2f ede|e3 BBA|"D"AAA A3|\
+"D"c3 --ddf|"D"d3 -d2d|
+
+
+ia Poaleeel
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+T:6/8
+\:f/2e/2|"D"A2d f3|"G"g2c Bdd|"D7"dAA Ade|"Am"edc G3|"C"AAA A3|"F"AEA B3|
+"Em"dBB "A"d2c|"Em"AAA "A"cfe|
+"D"ffe "E7"ffg|"A"ecc "D7"dBA|"A7"Ace A2c|"D"d3 "E7"BAF|
+"D"AAd "G"g2g|
+"G"ggg "Am"fec|"D"ffg "D#m"fdc|"G"BBB "E7"e3|
+"Em"B2e "E7"e2e|
+"G"BGd d^dd|"D"e2f "D#7"a2e|"Ab"egc cga|"G"gfg ggb|
+"D/m+"fAa "A7"f3|"D"gff d2f|"A"d2B Aef|
+"Em"edc BGd|"D"_e2a e^ff|"G"ggg "Em"fgg|"D"f2e "D"eff|"A"edc "D"A2:|
+P:G
+e/2d/2|"A"efc d2c|"D/A+"A3 -A2:|
+M:1/4
+K:D
+"Em"B^F D3|\
+"D"c2B A2A|"Em"B2B BBc|"D"d2e eee|"D"e2c "Em"BeB|"Em"ABc Ac^d|
+"G"dBG G2B|
+"Bm"g3 ede|"Bb"g2g g4:|
+P:B
+d|"G"g2d "G"g2B|"G"B/2B/2C/2d/2G "C"c2B|"D7"eaf def|"A7"c2c cAB|"Em"e3 -g2c|"E7"f2e aed|"A"ccc EAB|"D"A/2d/2e/2B/2c "A"ABB|"Em"d3 -B2:|
+
+
+M:4/4
+L:1/4
+K:D
+c|A2 c/2G/2E/2E/2|"D"A/2E/2B/2G/2 AF/2G/2|"D"DD -"G"E/2G/2E/2A/2||
+"D"fd/2c/2 "D"A/2A/2c|"A7"eA AA|"D"ce/2g/2 "A7"cB|"G"eB d/2d/2f/2g/2|\
+"E7"f/2g/2B/2e/2 g/2^f/2g/2d/2|"G"B3/4B/4G/2G/2 "Am"AD/2F/2|"G"GG -G:|
+P:F
+G/2A/2|"Em"B/2B/2d/2d/2 Af/2b/2|"G"f/2g/2e/2c/2 "E7"d/2c/2B/2B/2|"G"||
+
+
+M:6/8
+K:G
+P:A
+A|"G"GAG B2E|"D"D2D F3|"G"G2d Bdg|"D"f22 d2:|
+P:B
+e|"D"f2f f2f|"G"g2g g2g|"F"a2A eAd|"D"a2c g"A"AB|
+"G"B3 G2f|"D"e3 dAB|"C"ecd eeg|"C"aba efa|"D"g4e2d|"A"e2d A2A|"G"GBB "D7"A3|"G"G2B "G7"G2D|"G"B2B "Cm"d3|"Bm"B3 G3|\
+"Em"B2A cBe|"G"e2d "Em"||
+"G"BBB cBB|
+"D"d3 "Bm"g2g|"Dm"e3 "D7"fBD|"C"G3 c2g|"G"dgg g2e|"G"dag (3ggg g2|"Am"a2g e2A|"G"BcB BcB|
+"C"G2A Bcc|"D"c2A fAG|"Em"E2G d2B|"D"c2e e2d|"Em"bee g2g|"D"ffa d2:|
+
+
+S:Kevin Briggs
+M:6/8
+K:D
+P:A
+G/2E/2|"G"EAB Bdd|"G"eB^c "G"egd|"G7"c2d "C"d2B|
+"D"c2A A3|"Em"BAG "D7"EEd|"Dm"c3 d2:|
+
+
+M:6/8
+K:C
+P:A
+d|"D"f2e -E2A|"G"B2d "G"dBB|"C"dde "G"Beg|"G"egg d2:|
+P:C
+G/2A/2|BBd d2B|"A7"d2e eec|"Am"cde "A7"c3|
+"Am"efg efa|"D"aff fgf|"A7"eed "F#m"cGA|"A"A2G F2:|
+
+
+M:6/8
+K:Gm
+a|"D"agg "A"cee|"A"gcf ^e2e|"A"eBA -ABd|"D"Aea ecA|
+"Em"dAB d^Be|"A"B2e "A7"eeg|"G"d2d "A"A3|"D"ffe "A"def|"Em"e2f f2g|"A"feA A2:|
+
+
+M:4/4
+L:1/4
+K:D
+G/2A/2|"G"BA E/2B/2A|"G"B/2B/2c/2d/2 "C7"d/2c/2A/2A/2|"D"Ae/2B/2 "G7"dB/2d/2|"Am"Bc dA/2A/2|\
+"G"d/2c/2d/2B/2 "D7"A/2c/2B/2B/2|"A7"c3/2d/2 d/2c/2c/2B/2|"G"d3/2e/2 g/2c/2d/2f/2|"C"f/2g/2g/2b/2 "D7"d/2e/2f/2g/2|\
+"D"f/2a/2f/2f/2 a/2e/2d/2c/2|"G"G/2A/2B/2G/2 d/2B/2B/2c/2|gg "G"g/2g/2g/2d/2|
+"G"dd/2d/2 B/2A/2A/2G/2|
+"C"F/2F/2D/2E/2 "Am"A/2B/2d/2c/2|\
+"D7"d/2e/2e/2g/2 "Em"B/2c/2B/2F/2|\
+"G"G/2d/2d/2c/2 "A7"A/2A/2A/2B/2|"G"B/2F/2D/2A/2 "C7"d/2A/2B/2A/2|"G"G/2G/2B/2c/2 "D7"d/2d/2A/2G/2|"G"G3/2G/2 F/2G/2F/2G/2|
+"G"B/2c/2A/2G/2 GB/2B/2|"A7"e/2e/2c/2B/2 e/2f/2g/2g/2|"G"b/2g/2g/2a/2 "D7"d/2d/2e/2d/2|"Am"e/2d/2B/2c/2 de/2c/2|"D"ef/2g/2 "A"a/2a/2e/2d/2|\
+"G"GF/2E/2 "G"G/2D/2D|"G"d/2g/2a/2a/2 "Em"g/2g/2a/2g/2|
+"D"ad/2d/2 "Em"f/2f/2g/2g/2|\
+"D"df "E7"g/2g/2b/2g/2|\
+"Em"g/2e/2e/
+
+R:Hc|"A"e2f Edg|"C"age "Am"e2e|"A7"cfe "D"d2f|"D"f2f "A7"cBA|"A"Adf "D"a2e|"G"f2d "A"Acc|
+"A"eef "A7"eed| 1"Em"ccB "D#7"BGF|"D"F2A "A7"A3::
+A/2B/2|"E7"B2d B2B|"G"ddd gcA|"C"dAc "D7"d2e|"A7"cec "A7"BBe|\
+"A7"eed dec|"Em"dBB "E7"A3|"G"B3 ||
+P:B
+|:c |"Am"ABA c2e|"A"e2e (3e2g|
+"c"ege "E7"f3|"Eb"gfd BBA|"G"B3 "D7"ABf||
+"D#m"f2f afa|"D"agf eee|"D"ddd "D#m"deg|"Em"ffd d2:|
+
+
+S:Srad, via PR
+M:4/4
+L:1/4
+K:G
+"C"G/2A/2G/2A/2 c/2B/2c/2B/2|"Am"AB/2c/2 "F"A/2A/2F/2A/2|"C"ce "A"e/2c/2c/2d/2|\
+"G"d/2B/2e/2c/2 "D7"cA|"D"A/2A/2B/2A/2 A/2B/2c/2B/2|\
+"D"A/4d/2d/2e/2 c/2c/2e/2|
+"D"d/2d/2c/2c/2 "E7"e/2e/2g/2g/2|\
+"G"gd/2d/2 "D7"e/2e/2d/2f/2|"A"a3/2^d/2 d/2B/2A|"D"A/2A/2A/2A/2 "D"d/2B/2G/2B/2|"D"c/2B/2c/2c/2 ca|"D"f/2d/2d/2A/2 BB/2B/2|"Em"A/2A/2A/2B/2 d/2d/2f/2A/2|\
+"A"c/2d/2B/2F/2 "Bm"E/2E/2G/2F/2|\
+"D"DG/2A/2 A3/2A/2|\
+"A7"B/2A/2A/2G/2 "E"B/2B/2c/2e/2|"Em"f/2g/2g/2f/2 "D7"c/2f/2g/2e/2|"G"g/2f/2d/2d/2 "D7"A/2A/2A/2A/2|"Am"c/2c/2B/2A/2 "A7"A/2E/2F/2F/2|\
+"G"D3:|
+
+
+S:Kevin Briggs, via EF
+M:6/8
+K:F
+P:A
+B/2c/2|"C"g'ee cde|"A7"ccc ddd|"A7"AAA AAA|"D"AAd "E7"BAB|"A"A3 "D"A2::
+P:A
+g/2g/2|"D"b2e fdd|"A"a2f "D"eed|"D"d/2fa/2e e2g:|
+K:C
+D|"D"c3 e3f|"A7"e3 "A7"e2a|"D"e2A "A"F3|e3 -faB|"Am"ccd "A"AGA|"E2"e3 e2f|"A"eAB "Am"c2c|
+"D7"a2f f2g|"F"fed dde|
+"F"d/2e/2d/2c/2e|"D"f2e|"A"ec ac|"Em"cc "D"Ac|"Am"ee cc|
+"E7"b3/2e/2 dA/2c/2|"Em"f2e BB/2c/2A|"A7"A/2F/2A/2A/2 AF|"Em"EG BA/2d/2|"E7"g3/2e/2 ef|
+"C"e2 da|"Em"eB  ec|"D"e/2e/2g/2d/2 "G7"fB|"G"BB "A7"AG/2G/2|\
+"Em"BA/2c/2 dc|"G"BG c|B2 B3/2A/2|
+"G"AG "D7"A2|"G"GE BF|"D"AA FA/2A/2|"D"F3/2E/2 A3|
+"D"c/2e/2f/2d/2 -ed|Fd cA|"F"A2 Fd|"D"fA/2d/2 "D7"dc|"Bm"A2 "D7"c3||
+
+
+i: D7oiags
+M:4/4
+L:1/4
+K:A
+c|"C"d3/2G/2 A2|"Am"B2 Ac|"D"ce d^A|"A"AA Bd/2d/2|"Em"dA "E"A2|"A"e2 ge|"G"BD BE|"G"BEG "G"G2:|
+
+
+S:via PR
+M:4/4
+L:1/4
+K:D
+P:A
+E/2E/2|\
+"G"G3/2A/2 BB/2B/2|"Am"A3/2A/2 AA|"C"c3/2B/2 Be|"D7/a"/3d/2A/2B/2A/2 FA|"G"GB "F7"AF/2G/2|"C/a"D/2G/2G|
+K:D
+"Em"BE "G"GD/2A/2|"G"d2 G:|
+P:B
+d/2c/2|"A7"A/2G/2c/2c/2 G/2G/2G/2(/2=E/2F/2G/2|\
+"A"F3/2G/2 "E7"EE/2D/2|\
+"G"Dg/2d/2 "G"d/2B/2A/2B/2|
+"A7"A/2A/2G/2A/2 A/2F/2B/2d/2|"D"B/2d/2c/2A/2 d/2B/2B/2c/2|"D"fB "A"c/2c/2B/2F/2|
+"Em"c/2d/2d/2e/2 "D"e/2e/2f/2e/2|"Bm"d/2A/2A/2c/2 "D"A/2A/2G/2A/2|\
+"D"A/2A/2B/2B/2 c3/2B/2|\
+"D"A/2A/2d/2c/2 ge/2g/2|"D"d/2c/2g/2d/2 f/2c/2d/2g/2|"D"fd f/2e/2e/2g/2|"E"a/2f/2d/2e/2 g
+f/2d/2|"D"e/2e/2d/2F/2 "D"FA/2^F/2|"Bb"D2/2E/2 "G"G/2B/2A/2B/2|"Em""G"B/2B/2d/2c/2 B/2d/2d/2c/2|"Em"d/2d/2d/2e/2 e/2A/2A/2B/2|\
+"A"dd/2c/2 A/2e/2e/2f/2|
+"Em"g/2f/2d/2c/2 "A"ef/2f/2|"F"e/2c/2B/2c/2 =d/2c/2A/2A/2|"2"F"D/2G/2F/2F/2 Ad/2E/2|\
+"G"D
+
+M:4/4
+L:1/4
+K:A
+|:"C"GA Bd-|"D"dA Ad|"D"e3/2g/2 ge|"Em"ed "D"c3/2f/2|"D"e, ae|"A"c2 ef|"Em"fd c2|"D"A2 de|"Em"gf e2|"D"e2 -ae|"G"d2 B2|"F"d3/2A/2 A/2G/2A|"G"D3-|"D"E2 G2|"Am"G3/2B/2 dB|\
+"D7"dd fd|"C"d2 -c3/2a/2|"G"gd AB|
+"Am""Em"B2 =c3/2c/2|"G"B/2d/2e/2e/2 Bc|"G"e3/2B/2 dc|"G"d3|:
+
+
+M:6/8
+K:D
+Ge|"G"d3 Gcc|"G"d2d "G7"dBB|"E7"ecc ffg|
+"D"d3 "D7"eee|"G"beg dc(3A/2c|"C7"cAB "D"AAF|"G7"GAG "G"G2:|
+
+
+M:6/8
+K:G
+P:A
+d|"G"=dgf ecG|"G"dBd "C"dcB|"D"FeA EGA|"Am"A2F G2A|
+"Am"A2A ABd|"A7"ccd BAA|"D"d2B A2A|"Bm"G2A "A7"EBA|"F"AAf d2:|
+P:B
+"D"d3 c2A|"A7"F2A FFF|EFG AEE|"A"A2A d2A|"Em"BGG "D"A3|"G"EDG FGG|
+"D7"ADA AAA|"D"A2c c2f|"A"gce "A7"e2d|"F"f2g "A7"fed|"A"ABA A2f|"D"dag dgd|"F"d2e d2::
+P:A
+A/2B/2|"Bb"dGG "A7"E3|"G"BBd BBc|"G"gdB BBB|"A7"ABA B2A|"Dm"AFF GFF|"D"DAF DFA|"A7"A2e dcc|"C"c2d "A7"c2"F7"G|\
+"F"G3 G2:|
+
+
+S:Trrhd Dm9, via EF
+M:3/4
+L:1/8
+K:G
+P:A
+A|"A"cA B"D7"A|"G"BG "A7"AA|"Bm"c2 "D7"AA|\
+"G"BG Bg|"G"d2"27"G|"Am"c3/2A/2 "C"GB/2c/2|"Am"cA GA:|
+P:B
+"Em"Be ce|"G"e2 de|"G"A|:
+P:B
+|:"G"dB c2|"E7"Ae Be|"G"dc "Em"ef|"D"dA dA|"A7"A3-||
+"Bm"BB AB|BB "E7"B2|"D"dc B2|"D7"fe ce|"C"gB/2e/2 de|"A7"ee d3/2^d/2|"D"dd ad|
+"A"A3/2d/2 Af|"Am"e2 ^ef|
+"A7"A/2c/2B/2B/2 cc|"D"AA AE|"D7"E/2A/2d A2|"Bm"Be c3/2A/2|"G"G, GG|"Am"G3::
+|:"G"B2 c2|
+"A7""E7"BB AD|"D"E2 E2|"A7"F2 E:|
+
+
+M:6/8
+K:D
+"D"A3 A2A|"B7"(FcBG A2B|"C"BBd "C7"edd|"D"feA d2A|"C/a"BGF "D7"FED|"D"F2D "D7"F2:|
+"Em"(cEA"F"E dFA|
+"D"c3 G2d|"A"d2e "E7"e2B|"D"e2e "A7"d3|"C"c2c "Em"B^AG|
+"A"eff cAc|
+"D"def "A7"gfd|"D"c3 "D"A2d|"G"dGd "D"ddf|"G"gfg " """"G"ged|"C"BBc "D"AGB|"A7"GGF "Em"BGB|"E"b2e "E7"c2A|"A"A3 A2:|
+
+
+M:6/8
+K:G
+E/2A/2|"Am"c2e AGA|"D"d2A e3|"Am"c2A B4:|
+P:B
+d|"F"a2f bee|f2e cda|"A"edA "E7"DBc|\
+"G"B2G G2G|
+"G"d3 eg^e|
+"A#"e2e efe|
+ec(3e|"D"f2g "A/f+"ffc|"Am"dcG "A7"AGE|"C"d2a "D"fff|"Bm"e2e "D"f2g|"C"fge "A7"ded|"Am"dfe d2:|
+P:B
+d/2g/2|
+"D"e^fg a2e|"Bm"ecB BAG|"D""C"FEE A2A|c3 "Gd"c3/2d/2B|\
+"Am"d3 dff|"A"eBE "A7"E2D|
+"G"B3 BBd|"A"a2c "A7"f3|\
+"D"dfA c2c|"D"f3 "D##m"e=dA|"E7"B3 A2:|
+P:B
+d/2e/2|"A7"age "D"d2f|"F"fff "A7"e2c|"G"d3 -d2c|\[1"A"c3 "D7"c2A|"G"a2d "D/ceg"ed|"Em"d3 -c3|
+"G"ffg ec^A|
+"D"dcA d2f|"D"f2e dcc|"G/b"gdB "D"AAA|"Em"A2B "A7"ABG|"A7"A2B A2:|
+\
+"A"AAe f2f|"D#m"afg "D"dcc|"D"AAA d2|
+
+
+M:C/8
+K:G
+f |"G"e2d efg|"C"eae "D"c2c|"A7"A2A A2G|"G"G3 -A2d|"G"e3 d2B|\
+"G"G2A D2G|"F"AFA "A7"A2c|"Em"B2B G2E|"E7"A3 -E2A|"Em"cdB B2G|"F"ABB A2:|
+
+
+S:Mik Bolnc, via EF
+M:4/4
+L:1/4
+K:G
+P:A
+|:"EF"Gd f/2e/2e/2e/2|
+"Em"gf "A7"gf/2e/2|"Em"BB "D"cf/2d/2|"C"fB (3e/2e/2A/2c/2|
+"D"d/2e/2d/2d/2 "G"dG/2G/2|\
+"C"G/2G/2c/2e/2 "A"c3|"Dm"c/2c/2c/2A/2 "A7"cB|
+"G"Bd/2c/2 "D7"BA|\
+"D"Af "G"d/2d/2A/2B/2|"G"B/2B/2B/2G/2 "D7"Ag|"D7"fe/2d/2 "Am"cB/2B/2|
+"D7"F c:|
+"Am"gf/2e/2 a3/2f/2|"G"g/2g/2g/2b/2 gb|"G"ed de|"D"a3/2e/2 gf|\
+"A"ee dc/2B/2|\
+"G"G3/2e/2 e/2B/2A/2B/2|"G"Bd eg|"C"eg d2|"Em"e3e:|
+
+
+M:4/4
+L:1/4
+K:D
+P:A
+A/2B/2|"D"d/2f/2d/2d/2 dB/2A/2|"A7"A3:|[2"D"d2 c2|"E"dd ae|"D"d/2d/2c/2A/2 AB|"A7"AF "D7"FD|\
+"D"F2 G:|
+ 
+P:"z"Ce
+|:"D"dc ce|"Em"be dc|"E"B3/2"E7"B/2 F|"D"F2 "D"A2|"F""d"Af Gc|"D7"d2 -"A7"c2|"A7"BA "D"d/2f/2e/2e/2|[1"A"cA BA|"F"de "A7"ef/2g/2|
+"D"f4||
+
+
+K:D
+R:|:P:A
+e|"D7"dcd "D"dA^c|"A7"ccc "A7"cAA|"G"BGG "D7"ABc|"G"BBB G2G|
+"D"Bdd GBd|"G"BGB g2g|
+"G"eBB "C"dff|"G"ged "Am"cBB|
+"Am"A2A d2e|"D"d3 fcd|"G"d2B "Dm"ABG|"G"G2B dAc|"Am"ccc "A7"ABc|"G"ddB "G"G2|:G|
+"G"BBd "E7"dBB|"D"AcA B2c|
+"D"ddc fAA|"C"f2g edB|"G7|"D"EEG D2D|"Bm"GFG BBA|"D7"c2G c2B|"F7"c3 "D7/d"A2A|"Al"A2F EAA|
+"G"G3 -D2B|"Dm"A2A D2A|"F"c2c c2d|"G"e2d "G"dBB|"D7"ABc "G"B2B|
+"D"A2-c e2e/2f/2|\
+"Am"ged "A7"ccc|\
+"C"gcc "A7"Aef|"Em"gfe "G"dBB|
+"C"f3 c2g|"G"f2c "C7"Bgf|\
+"G"b^gg ged|"G"BdB "Am"G3|
+"Em"cBd fgc|"E7"geg "A#m"daf|
+"Am"e3 Aed|"G"d2B "D7"B2A|\
+"G/b"B2B "D/a"d2f|
+"Em"e2d E3|"G"B3 -d(3B3/2B/2=G|"G"G2B ABG|"G"G3 -D2A|"G"GGG B2B|
+"C"ABA "G"G3|
+"Am"c3 "G"cdg|
+"G"g2a "G"gfg|
+"C"afd efd|"Am"f/2d3/2d "G7"c2B|
+"Em"ecA A2A|"C"d3 -d2c|
+"Am"e2B d2e|"E7"gBA "D7"A2B|"C"c3 c2:|
+
+
+M:6/8
+K:A
+P:F
+A|"C"cdd d2A-|"A"d3 "G"B2d|"G"d3 BGG|"G"G3 -G2:|
+P:B
+B|"Bm"ee^e gec|"G"Bcg "D"ecd|"Em"c2B G2B|
+"D"B2c ABA|"A"c3 E3|"Em"G,2G "A"D2A|"Em"D2G B2B|
+"D"d3 "D"d3|"D"d2e "D"d3|"Am"f'fd "D"c2c|"D"c2d A2A|
+"B7"e2d "F"d2c|
+"D"e2f "A"fdc|"Am"cAc "G7"e2d|"F"fde "A7"eee|"A"cAA B2|"E"BB E2|
+"Em"BB "A7"AcA|"Am"ABB AAF|"Em"EFG "D7"DEF|
+"Bm"EEF EBG|"B7"E4-:|
+
+
+S:E61:4/4
+L:1/4
+K:G
+D|"G"GB "D7"AF|"G"AG Bd|"D"af Bc|"G"B2 dc|"C"ff dd|"F"d2 d,||
+
+
+M:6/8
+K:G
+"Am"AGD FFE|"E"A3 "A7"D2c|"G"BGB (cFG/2d/2g|"G"g2d gfg|"D"f2f "A"aec|"A7"AAF B2:|
+P:C
+(Bcc|"G"e3 "D7"e2e|
+P:/2eb2c cdd]|
+"G"g3B "D7"ccD|"D7"f8A3 A2E2|"D7"DAAA F3O|
+"Em"G2Bc BcB2|"D"feBG c3|"Am/d"BBED "E7"DFDE|"D"F2A2 "G"G3:|
+
+
+S:Kevin Briggs, via EF
+M:4/4
+L:1/4
+K:G
+P:A
+e/2A/2|"G"Bd/2e/2 gd|"D"d/2B/2d/2B/2 "E7"c=e|
+"G"Bf/2g/2 dd|"A"c2 -B2|"A7"AB EA/2A/2|\
+"G"B/2c/2A/2E/2 "D7"A/2d/2f/2e/2|
+"G"BB BA/2F/2|
+"G7"GB BB/2G/2|"G"G3-|"D7"AG "E7"E2|"B7"BG "D7"FE|"D7"E -A2|"Em"B3/2B/2 :
+"Cm"G2/2B/2 (3eg|
+
+
+K:C
+P:A
+|:G=AB dGAc/2G/2|"C"[G2CB d'BA3|G3/2A/2D2 FFcC|"E7"E4A2C2]|
+
+
+L:1/4
+K:D
+P:A
+d2/2c/2|"Am"A/2A/2A/2B/2 e/2g/2f/2g/2|"E7"ge "D"d/2d/2e/2e/2|"A"cA AF/2E/2|\
+"A"Af/2e/2 eb/2d/2|"G"B/2c/2d/2B/2 c/2A/2c/2e/2|"G"g/2f/2g/2d/2 "G"g/2d/2e/2g/2|\
+"D"f/2a/2d/2B/2 e/2c/2d/2d/2|"A7"d/2c/2B/2A/2 c:|
+
+
+M:4/4
+L:1/4
+K:D
+"A"AA F/2A/2F/2F/2|G/2G/2F/2A/2 d/2B/2c/2e/2|"A"c/2A/2B/2A/2 AA/2B/2|\
+"A"c/2c/2c/2B/2 "D"f3/2f/2|"D"e/2d/2A/2B/2 AA|"A7"e/2f/2d/2c/2 "A"d/2G/2d/2g/2|\
+"D"c/2A/2d/2d/2 e/2c/2d/2c/2|"D"A/2G/2G/2F/2 "D"A/2A/2B/2B/2|
+"F"e3/2c/2 d/2c/2c/2d/2|"G"(3G/2Be/2c/2 "A"c/2c/2d/2e/2|"D"ff "B7"cc/2c/2|"G"dB/2G/2 "D"A:|
+
+
+M:4/4
+L:1/4
+K:D
+"A"E/2G/2d/2A/2 A/2F/2A/2E/2|"A7"GD F/2A/2c|"G"g/2a/2g/2g/2 c/2c/2e/2f/2|"D""A"d3/2B/2 "E7"Bc/2B/2|"D"F/2A/2c/2c/2 "E7"BB/2G/2|"Am"E/2G/2F/2F/2 "G"G:|
+P:B
+f/2f/2|
+"Bm"gg/2f/2 e/2^c/2f/2a/2|"A7"g/2a/2a/2f/2 "F"fe|"Em"gc/2f/2 a/2d/2d/2a/2|"Em"e/2g/2c/2c/2 BB|\
+"Em"ef/2a/2 "A7"g/2f/2a/2g/2|"D"d/2d/2c/2c/2 "A7"A/2c/2g/2g/2|"D"ff "G"b/2g/2d/2d/2|"D"dd d2|"E7"f/2=e/2e/2e/2 "A7"d/2B/2A|\
+"A"A/2d/2^f/2f/2 a/2g/2a/2c/2|"Gm"d/2b/2c/2c/2 "A7"ee|"D"="G"f/2e/2f/2^a/2 "E7"g/2f/2f/2e/2|"G"d/2G/2c/2e/2 "D"f/2e/2e/2A/2|\
+"D"A/4E/2A/2A/2A/2 "F"F/2D/2G/2D/2A/2|"C"d/2G/2G/2B/2 BA/2G/2|
+"C"G/2F/2A/2A/2 B/2B/2A/2A/2|
+"D"A/2A/2B/2A/2 c/2c/2e/2a/2|\
+"A"a/2f/2a/2a/2 "D"f/2a/2g/2f/2|\
+"Bm"ge/2e/2 g/2g/2a/2a/2|
+"Em"=f/2e/2c/2e/2 g/2a/2d/2B/2|"Ab"d/2A/2c/2c/2 "A7"e/2f/2c/2B/2|
+"G"GB/2B/2 "G"d/2B/2
+
+M:4/4
+L:1/4
+K:D
+P:A
+d/2b/2|"D"gf g/2e/2f/2c/2|"A7"cc d"A7"g:|
+"G"gf/2g/2 g/2f/2g/2g/2|"A"ec A/2c/2e|"Em"gg d/2d/2d/2B/2|
+"A"A/2A/2e/2e/2 eA/2B/2|"Em"cc/2A/2 "B7"B2|"D"F3/2D/2 DG|"G"G/2F/2A/2B/2 Bd|"G"BB "B7"B3|\
+"Em"G2 "F7"EG/2A/2|"G"Gc/2f/2 "G7"eg|"D"d3/2c/2 Ad|"D"af "D"fa|"D"aa =f4|"A"a/2e/2c c/2A/2A/2B/2|\
+"E"G/2A/2d/2c/2 "D"c/2Bd/2|
+"Am"AG "Am"A/2A/2B|\
+"D"c3||
+P:B
+B/2c/2|"D"dg ad|"G"d2 d^A/2d/2|"G"ff "C"gg/2a/2|\
+"G"gd/2c/2 d/2c/2B/2A/2|"G"BA G/2A/2c/2d/2|"D"gf fe|"D7"e/2e/2e/2d/2 e3/2c/2|"G"ed/2d/2 "D7"cB/2c/2|"C"fd "G7"dc/2f/2|"G"gg "D7"af:|
+P:A
+B/2G/2|"G7"GG AB/2A/2|"D7"AB/2F/2 "G"G3/2B/2|"G"BB/2B/2 Ge|"G"gf d/2c/2d|"Bm"cB G=A/2A/2|
+"D"e3/2a/2 B/2c/2e/2e/2|"A7"f/2g/2e/2e/2 cd/2g/2|
+"G"g2/2f/2 ge|"D/e+"ee f/2a/2d|"D7"dA AB|"G"dB dd|"G"Bd BB|"
+
+M:6/8
+K:D
+AC|"A7"cBcA cGED|"G"B3"G"E2G2 E2E2|"Em"D2Bd (agdce|"G"^cBGB "A7"edAF|"E7"EAGD E2Bf|
+"Am"A3/2c2 cc3|"D"d3 -ecBc|"C"B2Bc "Em"G3:|
+
+
+M:6/8
+K:G
+P:A
+E|"D"A2A GDF|"C7"G2G BGA|"D"e2d c2c|"F"ffe "D7"e2e|"D"eed "Em"cBB|"A7"AAc "A7"A2d|"D"d2d DB=e|"A"fec d3|
+"A"ccf f2d|"G"beB dBB|"A"e2e d2e|"A"dBA dAA|"A"e^eg a2f|"D"afe e2c|"D"AEF AAF|
+"D"DBA "A"e3|"D"fed "A"AFA|"A"AAA "D7"D2c|"D"d2c Fff|
+"D"fff "A"afe|"D"dde "E7"efd|"C"Aaf afe|"A"eAA f2:|
+P:B
+c/2d/2|"G"gfd "D""c#7"fAe|"G"af"d"a "G"dBB|"A7"eff fdc|
+"C"fed "C"egf|"Am"eee "A7"ecA|"Em"B3 A3:|
+
+
+M:6/8
+K:E
+A/2F/2|"D"de3/2d/2 f/2e/2D/2B/2A/2|e/2A/2A/2A/2A/2 A/2A/2A/2c/2||
+"Am"B/2d/2f/2f/2 "A"c/2c/2d/2g/2|"D7"c/2d/2d/2A/2 ef/2e/2|
+"Am"c/2e/2e/2a/2 f/2 a/2e/2e/2|"Bm"d/2B/2c/2d/2 "E7"e/2^d/2d/2B/2|
+"G"dd ee/2A/2|"D"d3/2f/2 e/2d/2a/2d/2|
+"A"c/2c/2c/2c/2 d/2F/2F/2E/2|
+"D"A/2C/2E/2E/2 AD|"D/9+"A/2F/2A/2A/2 d/2d/2a/2g/2||
+"A"ae e/2g/2e/2g/2|"D"d/2c/2d/2c/2 f/2f/2a/2g/2|
+"C"d/2d/2d/2c/2 "Am"Ae/2e/2|"A"ec2A|
+"D"Gd "D"f/2f/2e/2e/2|"Am"g/2g/2a/2f/2 ee|
+"A7"e/2g/22c/2 B/2c/2c/2f/2|"A7"e/2A/2A/2A/2 d/2B/2B/2B/2|"G"Bc/2d/2 d/2A/2B/2c/2|"D"f3/2f/2 "D7"e/2f/2g/2g/2|"Em"g/2f/2f/2f/2 "A7"a/2f/2g/2g/2|"G"eg/2c/2 "D"c/2c/2e/2e/2|\
+"Em"c/2c/2e/2d/2 dd/2a/2|\
+"A7"c/2A/2B/2A/2 A/2F/2B/2B/2|"G"Bc "A"A3/2d/2|"A"c/2c/2A/2A/2 "D"A/2A/2F/2E/2|"D"Ad/2c/2 c/2c/2c/2d/2|\
+"D"c/2c/2A/2d/2 A/2A/2F/2A/2|"Em"d/2B/
+
+M:6/8
+K:C
+P:A
+B|"G"B2B d2d|"C"cgc cef|"Am"e2e f2e|"F"dcc cce|"G"ddd "D7"ccA|
+"Em"^FGF "D"FAE|"D"F2A A2A|"C"ddd "F"ecE|"D/a"c2d "G"d2:|
+P:G
+c|"D"d3 -d2A|"A7"ABA A2d|"G"B2B A3|"A7"AAd e2f|
+"Am"eee f2g|
+\[2"Eb"e2g g2d|"G"ddB B2g|"Bm"ged "D7"fag|"A7"gfe "D"e3|"Em"gfg "D"fef|"Dm"ecd "C"dcA|"D"cAc cFA|
+"G"dGG G2:|
+
+
+M:4/4
+L:1/4
+K:D
+A/2G/2|AB c/2B/2G/2A/2|"C"BG/2G/2 "D"FF/2E/2|
+"Am"D/2D/2F/2F/2 "D"G/2B/2c/2d/2|"A"a/2a/2e/2d/2 e'/2f/2 "D7"f/2a/2a/2|"D"f/2e/2f/2d/2 d/2c/2f/2f/2|\
+"D/f+"f/2g/2f/2f/2 "G"g/2e/2d/2d/2|\
+"D"c/2c/2B/2B/2 "A7"Bd|\
+"D"d:|
+P:A
+g/2g/2|\
+"A"e/2a/2e/2e/2 dA|"A7"e/2a/2g/2e/2 c||
+
+
+M:4/4
+L:1/4
+K:D
+"A"A
+"G"EA "G"GF|"Em"E/2F/2E/2D/2 EE|"G"dG/2d/2 "D7"c3/2c/2|
+"G"B/2d/2c/2B/2 "E7"Bg:|
+"D"f2 c2|\
+"Dm"dB cd/2B/2|eA BB/2A/2|"C"B3/2d/2 de|
+"Gm"fc "C"dd|
+"Dm"d^d eA|"Eb"c3/2g/2 =e2|"D"f3e|"D"fd c2|"Am"B4-|"G"B2 GB|"D7"A4|-F||
+
+
+K:A
+P:BA
+P:B
+dBA|"A"cccA efac|"Bm"dgec g2g^e|"D"adcd dddd|"A7"ABde c2:|
+
+
+M:6/8
+K:Em
+K:A
+A2|"G"b2g e2B|"D"AGA "D7"A3|\
+K:EDc
+"D"AAA "G"B2B|"D"d3 G2A|\
+"G"G3 -GGG|"Fm"c3 -c2d|g2c d2B|"G"G2B B2d|"G"d2B G2G|A^FD BAA|"G"G2D "D7"F2D|"G"DBc B2G|"C"G2G B2G|
+"C7"d3 g3|"D7"f2f "G7/g+"fga|"D#"a2a "d7"e^gd|"F7"eAc eff|"A7"A3 "D7"Agf|
+"G"c3 =d2^"D7"A:|D2A G2E|
+"C"F2G "Gm"EGA|"Am"cAB c3/2d/2d|"D7"f2g "D7"aff|"G"geb g2g|"D"gee "E7"ggf|
+"D"dee "Em"dee|
+"C"eBd "D"d3|
+"G"ddB GBd|"A7"cAA c^AG|"C"FAd ddd|"D"dfe "G7"ddB|"G"BBc dBB|"D"A3 -ddf|"G"gef "D7"aff|"G7"dfg ggg|"D"afg "B"a3|"Am"cBd BeA|"G"B3 -GBA|"G"GAB "A7"ege|"A7"ec(3GG "A7"EEE|"D"FEE F2:|
+P:G
+g/2a/2|"Em"e2e fcB|"D7"c2c (3ede|
+"Fm"d2d "Em"e2f|"Cm"fea "A"ggf|"G"g2f ddB|
+"Em"e2d "E7"c2B|"G"G2B "F"A2A|"G"G2B d2:|
+P:G
+|:F/2A/2|"G"ecd GBB|"G"BGc g3|
+
+M:6/8
+K:D
+|:"D"dgd BBB|"D7"d6||
+P:B
+c|"Gm"c3F|"A"e3 ^A2A|"D7"A2F F2F|A2E F2F|DGG G2-|B2 B2|"Am"A2G EFF|
+"D"FB3 E2C|"C"G2G G3|G2G G2d|
+"G"BFG Ecd|"d"dcd cBA|"F"f2(eA =f2f|"G"gdB B=eg|"A"cff "D"fcc|[36:|
+
+
+S:Alirt, via PR
+M:3/4
+L:1/4
+K:Em
+E/2B/2|"D"df/2d3/2 g/2c/2e/2A/2|B/2e/2d/2e/2 c/2f/2e/2c/2|G/2G/2A/2c/2 g/2d/2d/2f/2|\
+"A"c/2A/2B/2c/2 "A"A::
+"D"e/2f/2e/2e/2 "E"ee/2c/2|\
+"G"d/2e/2B/2B/2 "A7"A2|"Em"c/2B/2d/2d/2 "A"AA/2G/2|
+"Em"G/2A/2d/2A/2 A/2F/2A/2F/2|\
+"D"GA A:|
+
+
+ita Daisssss  Dssscsssls sac Dasssrss Dssssc aba aua assssris Raapes
+M:6/8
+K:D
+P:A
+P:A
+A|"G"GBG BFB|"G"GcA BBc|"G"ddB dfg|"D"a2f d3:|
+
+
+M:6/8
+K:D
+D|"G"BGG A2B|"C"cef acd|"G"d3 d2g|"Am"dge dcB|
+"G"Bdg d2B|"G"BGB dcd|"G"dBc gfB|"C7"ABc "D7"ABc|"G"d2d f2e|"G"eBB GB=d|
+"Am"ccc "D"e2c|
+"Em"gaa ggg|"D/d"efa fge|"G"ddd cdd|"Bm"B^Ac "D"cdf|
+"G"ddd Geg|"D7"feB "D7"ABF|\
+"G"GDG BGG|"G"dBG "G7"G3|"G"Gdg "D/c+"egg|"Am"ecd gfe|\
+"Am"e2A gdB|"D"A3 -G2:|
+
+
+P:B
+B|"G"B2B B2B|"Am"c2A E2G|"Em"FBc "D7"fgc|"Em"B2G "A7"ABA|"A7"A3 -E2E|"Em"A2G "Am/f7"A2G|
+"Dm"A2A "A7"FFE|"Dm"EFD "D7"D":"A7"G"F"F|"G"G2F "Gm"G2E|"Gm"GBA "C"G2d|"D"cAB eff|"C"a3 d2||
+
+
+M:6/8
+K:D
+P:A
+A/2d/2|"G"deg ggg|"D"ffe d2e|"D"c2d "G"BGB|"Em"B2B "D7"FAA|"D"FAc d2|\
+"D"A2A F2D|
+"D"A2F d2B|\
+"C"A2d "Em"e2e|"Bm"efe "D"dcA|"G"GFF "C"GGE|"D"D2E F2A|"G"B2B G2B|
+"G"Bdd -agB|"Em"ABG A2B|"E7"c2B d^Bd|"F"gdA "G"G3|"D"d2d cad|\
+"Em"BBB "D7"A2A|"D"cBc "C"d2:|
+|
+"D"f2g aff|"D"gge Ddf|"Em"g3 "D"a2d|"C"e3 -g2:|
+|
+
+
+M:4/4
+L:1/4
+K:D
+d/2A/2|dA/2G/2 G2-|A2 c2|"Gm"BB "C"A2|"C"dd d3/2c/2|"D"e/2B/2E/2G/2 "G/b"B3/2B/2|"C"cF "G"GE|\
+"C"GE "G"B3:|
+P:B
+B|"D"ee ef|"D"fe "F"af|"Bm"c2 "D7/f+"g2|\
+"C7"ff ee|
+"Em"g2 gf|"D"ff "D7"ed|"G"BG A2|:"Em"BD GE|
+"D7"E3/2A/2 BG|"D7"FF DF|"G"G2 A3|\
+"G"G4-|"G7"B2 "C7"c|"G"g2 dc|
+"D"A3/2A/2 FG|"G""C7"A3/2F/2 "Am"G,|"D7"AD "C""C"G2:|
+P:B
+c/2d/2|"C"e3/2c/2 dA|"D/f+"c2 -dB|"D7"A2 A/2A/2A|"Am"e^d cd|"E7"d3F/2A/2|
+"G"dc BD/2G/2|"G"dd BB|"D"F^E DA|"D"c2 ef|"G"dd "Em/g"c2|"D"a^f ae|"G"dB "D"FG/2d/2|
+"G"dd g/2g/2e|"A7"dB "d7"AB/2A/2|"D"Af eF|"G"BG/2D/2 AG|"C"BG "D7"AG|"Am"B2 G2|\
+"D7""Bm"A3/2G/2 "E7"BA|\
+"D"d3/2f/2 af|\
+"C""="a_bg dd|"D"d^c cB|"G"d2 AB|"A7"A/2B/2c/2c/2 "D#/B+"cG|"G"BB E/2F/2D|"G"GB "D7"Ec|"D"d3/2c/2 A3:|
+P:A
+f/2e/2|"G"bG "A"c
+
+i: Daiaga
+M:6/8
+K:A
+P:A
+f|"D"a2f "D"fff|"E7"eBB dAA|"G"BFG G2f|"F"f/2e/2BA fdA|
+"D"dgf """"c"f3|\
+"P"a3 e3|\
+"A"eaf "B7"e3|"G"b3 "C"dBe|"E7"e2d GAe|"Em"eee "G"f3|
+"G"g2b "Bm"g2b|"G"g2g fed|"D"e3 d2d|
+"A"fee "D#m"dfg|"D"f2a a2f|"Bm"egf "A7"f2g|"Eb"eeg "C"d2e|"G"edd "D"eff|"Am"ece "A"(3ega|"A/f"afg "A7"edf|"A7"e^ff "A7"BAc|"A"dce "D"f2f|"A7"cec Aca|"E7"ggf "Em"dfg|"D"f:-|
+
+
+M:6/8
+K:A
+|:d|(3"Am"AddB "D7"(cAEAA|"E7"B3d A2A3|"D"Addc fAcc|"A7"AABc c2AA|"D"Adfd e2ea|"A"fgcA "D"ffff|"D"fdfa "A"a2da|"D"afaa "A"adcc|"Bm"GGFA bd=cB|"D"AFDE "D"F2||
+
+
+P:A
+d/2c/2|"G"Geg gfe|"G"eBG Gdg|"G"gBd "C"Bed|"D7"eef "D7"g2g|"D"d3 dd::
+ D|"F"A2d fff|"A7"e3 "G"d2B|
+"Em"B2B B2c|"Am"fee "A7"ecB|
+"D"d2c ^A2A|"Bb"EAG f^ eA|"D"d3 -d2f|"C"ddd B^cd|"Am"d2A A2A|"G"Bbd "Am"cBe|\
+"A7"eff g2e|"Em"e2g E2e|"D"a2F "D7"G3|"A7"c2d cBc|"D"e2f "A7"ggf|"Bm"g2e d2B|"F7"d2c BGA|"C"Beg ddB|"G"B2B "G"B2B|"G7"B3 B2B|"D"A^FA cAA|"C"e2d eBB|
+"D7"ABA ded|"G"BAc d2B|"C7"d3 -d3|"D7"d3 f3|"G"g2c GBA|"D"AAA |"G"G3|"D7"FDD A2G|
+"G"GGB Bdd|
+"D7"c3 ccA|
+"G"B3 B3|"G"G2G G2F|"D"Afe AFA|"G"BBB BGA|"G"de2 B2:|
+
+
+M:6/8
+K:G
+P:A
+|:"G"G2B BdB|"G"BAe "D"d3|"Em"edd "Am"e2f|"Am"d2c "D7"ccA|"C"GFG AEE|"D"EGD A2:|
+
+
+M:2/4
+L:1/4
+K:D
+|c|"F"A3/2B/2 ae|"A"c3:|
+P:B
+F|"F"AA/2A/2 FA/2A/2|"Bb"Bd BG|"D"Ac dc|"C"Bg g/2B3/2|
+"C"cd d/2c/2c|"C"E,/2B/2E "D"EE/2E/2|
+"A"A/2A/2AF/2A/2|"A7"AB/2A/2A/2 G/2E/2A/2A/2|"D"d/2e/2a/2a/2 "E"ed|"F"fe "A7"c3/2A/2|"F"A2 -A2|
+"Em"Ge G/2c/2B/2d/2|"D"e:|
+
+
+M:6/8
+K:G
+f|"G"gcd "D"fgf|"G"BAB B2B|"Am"ced "G"d2g|"C"d3 dcc|"Em"eBc dBB|"D"Acf f2d|"D"f3 "E7"ecB|
+"D""D"d2f cAA|"A"cda e2e|"A"ccA A2d|"A"eec G2A|"A7"Aee "A"ecc|"A"A2c ABA|"G"G3 -"A7"DFD|
+"D"A(dAB e2d|"Em"BdB "E7"EFF|"D"F2A "A"AAB|"Em"dge "D"A2:|
+P:G
+B/2c/2|"D"f2d d2d|"A"Acf "A7"afd|"D"d2c "E7"d3|"A"d3 -f2:|
+P:B
+B/2c/2|"A"ccc e3|AAc d^df|"A"cdd aed|"D"d3 "A7"eaf|"D"f3 d2e|"G"gge "D"Acd|"G"d2B "B7"D3|"D"A2c "A"d2A|\
+"D"d2e "F"d3|"D"f2f "D#mdfg"AB|"D"dfe "G"d2:|
+
+
+M:4/4
+L:1/4
+K:A
+d/2e/2|"G"dd/2f/2 gc|"D7"B/2A/2A/2c/2 Be|"G"dG "D"FB|"A7"c/2c/2e/2g/2 ed|"D7"cd d/2f/2f/2c/2|"G"d2 "A7"AA| "D"ec/2A/2 "C"F||
+"F"Bd gc/2d/2|
+"Am"e2 AE/2A/2|"D"A/2c/2B/2e/2 ec|"D"df fc|"D"cd c/2A/2c/2d/2|"G"dB Bd|"D"B2 "E7"E2|"D"(3f/2d/2d/2d/2a/2 ff/2e/2|"A7"a/2f/2=f/2f/2 "E7"d3/2d/2|"Em"Be "A7"ff|"D"ff g2|
+"G"B/2G/2A/2f/2 "F/f+"eb/2g/2|"E7"ed "D7"ef/2f/2|"D7"fc Bd/2c/2|"Em"Be "A7"ef|\
+"D"fc e:|
+P:G
+B/2e/2|"E7"a3/2f/2 fd|"D7"e/2c/2f/2d/2 BG/2c/2|"A7"c3-|"D""gdm"c/2A/2A/2F/2 EB|"Em"c2 "D7"cf|
+"D"e/2e/2e/2f/2 de|"D"gf gf|"G"g2 "Em"dg/2g/2|"D"eg "A7"aA|"G"B2 Ga/2g/2|
+"Em"ee ee|"Am"f/2f/2e/2e/2 da|"A7"e3/2e/2 cB|"E7"BB "D"da/2g/2|\
+"Am"e^f "C"e/2g/2g/2g/2|"A"af/2a/2 gf|"A"eA F/2d/2c/2c/2|
+"G"BB/2c/2 Bd|"G"B/2A/2F/2F/2 GF|"Em"AG d/2B/2c/2c/2|"A7"Af cc|"E7"ee B"A7"e/2g/2|
+"D"ee
+
+M:4/4
+L:1/4
+K:G
+D/2F/2|"G"G/2D/2G/2G/2 GG/2B/2|"G"BB/2d/2 A/2G/2G/2F/2|
+"Am"A/2B/2A/2G/2 "D7"GA/2A/2|
+"Am"A/2A/2A/2d/2 A/2c/2d/2c/2|\
+"D"a/2f/2d/2f/2 "D7"a/2f/2f/2e/2|
+"D"f/2a/2a/2f/2 a/2d/2g/2"c"a/2g/2|c/2e/2a/2e/2 f/2e/2d/2f/2|
+d/2d/2c/2B/2 d/2c/2c/2A/2|g::
+G/2F/2|De ^c/2e/2c/2d/2|\
+"Am"A(BA/2A/2(3F/2 "F"A3/2A/2|"G"B/2d/2B/2d/2 "Am"A/2A/2A/2B/2|"G"d/2B/2c/2d/2 "A7"A/2G/2E/2C/2|/3G/2E/2G/2 "A7"F/2G/2G/2F/2|\
+"D"D/2B/2A/2A/2 A/2G/2A/2A/2|"C"d/2c/2F/2B "G"d/2e/2f/2d/2|\
+"Em/e"g/2g/2f/2a/2 B/2f/2e/2^B/2|"G"d/2g/2e/2f/2 "A7"d/2d/2c/2B/2|"Em"Be c:|
+
+
+S:Tnarel, via EF
+M:6/8
+K:A
+B/2c/2|\
+"D"dAA e2B|"D"Afc Aef|"A"A^Ac "A7"AGG|"C"dGD GAA|"G"d2e "A"eAG|"A7"F2A A2:|
+
+
+M:6/8
+K:D
+P:A
+c|"D"cAF D2B|"G"BGG B2B|"D"A2c "Am"c2e|"D"ddA "D7"F3|"D"AAA "D"G2A|"G"B2d "F"BcA|"Em"BGB "D"A3|"D"D2D "A7/F"GFF|"D"E2d f2d|"D"F2A e2e|"A"eab "E"g2a|"D"ab=f "E7"bgg|"A"f3 "A"a2e|"C"ggc "C"d2:|
+
+
+M:4/4
+L:1/4
+K:Dm
+P:A
+A/2G/2|"A7"Ae f/2d/2c/2c/2|"E7"A3/2e/2 "D"dc|
+"A"c2|df/2d/2 "E7"eB/2d/2|
+"D"dA "D"(3d/2A/2A/2c/2c/2|"Bm"ed "B7"Gf/2f/2|
+ag dA/2B/2|c/2A/2A/2B/2 d2|"F"ce/2d/2 "D"f/2e/2A/2c/2|
+"A"e/2=e/2a/2f/2 f/2c/2d/2d/2|
+"A"ef/2c/2 "A"e e/2e/2a/2|"A"ce/2d/2 "D"c/2d/2e/2f/2|"A"e2 =A3/2c/2|"D"de2|"G"d/2c/2B/2A/2 "D"G/2A/2F/2E/2|
+"A"Ad/2A/2 "D7"FA|"E7"EA G::
+"D"AA FA/2A/2|"D"Ad A2|"C"E/2F/2G/2D/2 BG|"A"F3:|
+
+
+M:4/4
+L:1/4
+K:D
+BA |G3/2c/2|B3:|
+
+
+M:6/8
+K:G
+P:A
+B|"C"dBd eBc|"F"A2G FFE|"D7"F2A DFG|"D"AdB "A7"e2A|
+"D"dcG F3|
+"D"FGA AAA|"G"d^BB eed|"D"ecA "G"B2g|"G"dcd "D7"c2d|"Am"ccA "B7"A2|"G"G2B "Am"A3|"G"GGG "D7"G2E|"G"G3 "E7"B2B|"A7"A2d c2d|
+"Em"a2f e^de|"C"f2e ddc||
+"G"GGB BBB|"G"dcG G3|"D7"AFA "G"G2:|
+|
+
+
+S:Toay Beaar
+M:6/8
+K:D
+P:B
+A|"D"AEA Afc|\
+"G"B2d "Gm"eBB|"G"d3 "Bm"AeB|"D7"D2F A4:|
+"G"G3 B2||
+
+
+M:6/8
+K:D
+P:A
+D|"Am"c2A AAE|"A"A3 E2G|AB^A c3|"A"A2A A2d|"A"caf A2A|"E"csa' e2d|"G"d3 dAG|"C/a+"e3 dcG|"D"d2B dcB|
+"D"fdB dBD|"F#m"d2d "C"cdc|"A7"d3 d3|
+"A"eea e2c|"E7"Bae e2d|"A"e2c "A"B2c|"A"c3 "B7"dBc|"D"d^ce "A7"edc|"Bm"e2B "D"A2F|"D"A2G "A"E2A|"Em"d3 -2F2|"D"F3 C2::
+ e fB4[g2)[E/2a/2[c/2]|
+"A7"A3 A^FA|"A"c2F "G"GGB|"D7"Ade "D7"cGc|"G7"EBe "C"gge|"C"dcA A2::
+
+
+M:4/4
+L:1/4
+K:A
+e/4g/4|"G"g/2f/2 b/2d/2|"G"G/2E/2 "G"E/2G/2|"D"A/2D/2 Ad/2|"C"d/2c/2 B/2G/2|"Am"c "A7"A/2c/2|"G"F/2B/2 "Dm"A/2d/2|\
+"Dm"e/2e/2 c/2e/4|"C"a/2a/2 "D"a f/2e/2|
+"Em"d/2d/2 A/2A/2|"D7"d/2c/2 c/2c/2|"D7"c/2d/2 "G"B/2B/2|"G"B3/4B/4 c/2e/2|"D#7"a "A7/e"g/2g/2|"Bm"f/2^B/2 d/2B/2|"G#"d/2c/2 B/2d/2|"C"d/2e/2 "C"g/2e/2|"Am"e/2c3/2 "G"B/2G/2B/2|"G"G/2c/2 B/4c/4B/4c/2|\
+"D"d/4d/4B/4A/4 A/2A/4|"D"c/2c/2 "D"c/2g/2|"G"g/4d/4 e/4e/4a/4e/4|"D"d/2D/2 A/2c/4c/4|"D"A/2A/2 "C"D:|
+P:B
+B/4G/4|\
+"D"DD/2B/2 d/2d/22/2c/2|\
+"Em"g/2f/2f/2f/2 "D"f/2e/2e/2d/2|
+"G"Bd/2c/2 "G"BA/2A/2|"D"c/2B/2A/2c/2 A/2B/2B/2d/2|"G"B3/2G/2 "D"FE|
+"G"Gg/2c/2 "Dm"c/2G/2B/2B/2|
+"G"G/2B/2G/2G/2 AB|"D"A'/2A/2B/2 e/2f/2e/2c/2|"G"B/2d/2e/2A/2 G/2F/2F/2F/2|\
+
+
+M:2/4
+L:1/4
+K:D
+P:A
+e|"G"de dc|"G"GG -c3|"C"dd AB|"D7"dB AE|"G"G G2|Be dB|"Am"B=B "D7"AA|"D"FD DF|"G"G2 B2|"D"c3/2c/2 cG|"Eb"B3/2A/2 G2|
+"G"e2 gg|"C"fc "D7"c2|"D7"c/2d/2d/2c/2 dA|"D7"A3/2d/2 "D7"fe|"Am"c, Be/2c/2|
+"Am"AA/2A/2 "D"d3/2d/2|\
+"D"d/2A/2F/2D/2 D/2G/2E|"F7"F/2F/2A/2c/2 Ag/2E/2|"C"A/2B/2F G3/2G/2|"Dm"FA cc/2c/2|
+"D"Af d/2c/2d/2f/2|"Am"c2 -c||
+
+
+M:6/8
+K:G
+d|"Em"dGB d2c|"D7"cdf "G"d^dd|"Em"e2c "D7"dBA|
+"G"GGA -Gcd|"D7"cee "G"Bad|"D7"ccA "G"EBG|"G"GAG "C7/e7"A2G|
+"Em"B2F "G"G2:|
+K:D
+"C"AFG "D"A3|"G"GdB BGG|"G"GBc gBG|"G"cAG bBB|"G"d3 "A7"dcB|"D"A2F A2B|"G"G2B "C"c3|"G"B3 "D7"AFE|
+"G"B3 "D7"dBE|"Gm7(p"G3 G2G|"G"BGB dcB|"G"cdB B2B|"D"A3 -B2::
+"D"acaaf|"D"f2a2 "E7"gGdB|"G"^d2d2 "Em"AcBB|"D"cBAA "Am"EAEA|"Em"AECG b2ge|"Am"eef2 "A7"dAAe|"G"gaag "A7"eede|"D"fedA "A7da"FFF|
+"G"G2B2 dcAG|"D"e3g f3|
+"Am"f^fAB Bccc|"Em"eAbe BBcd|"G"BAdB BGGB|
+"F"e2A2 d3|"D7"d2c2 cddd|"F"cAAA "F"d3f|"A7"efed "D"d2g2|"Am"fecA "D7"d3/2dg|\
+"D"gcAA cedc|"G"B2G2 b2d3|"D"d3Bf e2eg|
+"F"f3 fbag|
+"A7"feff "c"edce|"A"cBee fgae|"A7"fecd "G"BBgd|"G"BBBB "C"dddc|"B7"BcAG A2||
+
+
+L:1/4
+K:G
+A|"D7"dD/2B/2 dd|"G"gB df/2e/2|"G"d3-|"G"Bc "G7"fd|"G"dd AA|"G"G^G -A2|
+"G"Bd "G"GA/2c/2|\
+"G"BB B2|
+"C"ee d2|"G"dd ed|"G"Bd "C7"fB|"D7"ed eB|"D7m"cc "D7"cB|
+"G"d2 Bd|"C"ed de|"D7"-e2 d2|"D"c4|"A7"eg ee|"A7"b2 e2|"Am"(3/ga =d2|"G7"dd "G/m"feF|
+"Am"FB cB|"G7"dd gg3/2f/2|"A7"bg eg|
+"D"ab ag|"D"b2 a/2d/2g|"C"a2 a2|de ga|"G"eg "G7"ec|"Dm"d2 df|"D"ag a3|\
+"Em"d"E7"e3/2_g/2|"Eb"gaa/2f/2|"D"f2 d::
+c/2d/2|\
+"Bm"d3/2d/2 dB|"A"c2 c2|"G"dd Bc|"D"c2 d2|
+"B"d3/2c/2 ge|\
+"E7"ge d2|"D"fe "Bm"g2|"A"e2 "A7"cA|
+"D"c3/2d/2 ff|"Em"fg ee/2e/2|"D"d/2c/2e/2a/2 "D"ec/2d/2|"G"dd/2e/2 "D7"ee/2a/2|"Em""e"g2 g/2g/2g/2f/2|"A7"ed /de/2f/2f/2|
+"Em"ag/2a/2 ge|"A7"AB/2 A/2B/2A/2|"G"GA BB/2c/2|"D7"ec "D7"A/2B/2A|"Am"F/2^F/2D, EE/2E/2|
+"G"B/2B/2A/2G/2 GA|"G"Bd "Am"c/2B/2c|"Am"de f3/2^g/2|"Bm"aa  f3|"C"d^c2|"G"
+
+M:6/8
+K:G
+P:A
+|:a|AcA ABG|"D"d3 -eed|"G"B^cd d2e|"D"e3 A2A|"Em"e2B A2B|"E7"BAG "G"G2c|
+"G"d2d "D"dAc|"C"g2g "C"B2d|\
+"G"e3 "D7"f3|"C"d2f "D7"ffg|"A7"a2f bfc|"A7"f2g def|"Em"e2d GGG|"C"DBd "c7"eff|"G"d2B B2g|
+"G"f3 bfa|dee dBA|"Dm"e2c ddd|"D7"cAB cef|"G"dGB "G7"dg^c|
+"C"aed dcG|"D"FFA c3|
+"D"A3 c2c|"G"GBB "G"G2G|"Dm"DFD FAc|
+"G"c2d "C7"cBA|"G"G3 -c3:|
+P:C
+c2|"Gm"d2B "D7"AAA|"D"A3 "A7"c2B|
+P:d"
+"F#"A2B -
+"G"G2G|"D"FEF A2d|"C"dBG GGG|"Gm"GBB B2c|"G"d2g gBc|"D"dFA d2e|"G"edB B2B|
+"E"BBG B2c|"G"feg "D7"f2f|"D"efg "G7"g3|"G7"dcB deg|"C"ged "C"d2f|"D"c3 -:|
+P:B
+fc|"D"ed(3cc "A"e2a|"A"ecA "Em"e3|"D"fgf "A"A^ef|"F"eed "G"B2B|"Am"AAA "A"A2:|
+P:B
+g/2a/2|"Bm"b2b "A7"ffe|"A7"eaf eee|"D"dfA "G"B3|"D"d2e fef|"A7"eBc "E"cef|"A"edA "A7"Bcc|"
+
+P:A
+|:A/2E/2|"Em"AEA "A7"A2=d|"F"^"F"Af -c2e|"Bm"ag2 "F"d2G|"Em"EAB "Em"B3|"E7"G2A "D"A2d|"C"d2B "E/A+"d3:|
+
+
+P:AB3
+M:6/8
+K:Em
+df|"G"d^BB BdB|"D"BAA "A7"c2C|
+"Am"FAA AAc|"G"dcB "C"A2B|
+"C"fBc "D"ecc|
+"Gm"GGG Bcd|"G"gBF GBd|"G"B3 -dff|"D"e2c d2A|"G"B2c "Bm"dBG|"G"B2A "G"G2:|
+
+
+S:ooy Pehds, via EF
+M:4/4
+L:1/4
+K:G
+P:A
+B|"G"BB dd/2B/2|dB B/2c/2B/2B/2|:"G"B2 B2|"D7"Ac Ac|"G"dB "D7"cB|"A"cd cB/2G/2|"Em"B3/2A/2 Bf|"G"d/2c/2B/2A/2 GG|"D7"A/2c/2d/2c/2 "D7"E=B|"A7"AA/2B/2 ed|"A"d/2c/2G/2E/2 D/2A/2d/2g/2|\
+[e a2|"C"e3|||
+
+
+M:6/8
+K:G
+P:A
+c/2d/2|"G"ddB GBB|"G"B(3B/2c/2e/2c/2 DG|"G"Gc/2d/2B/2 "D7"A/2c/2A/2G/2|
+"G"dd d/2d/2e/2e/2|\
+"D7"d/2A/2A/2A/2 "G7"GG/2G/2|
+"Em"GA A:|
+
+
+M:6/8
+K:F
+M:6/8
+P:B
+(3B/2e/2A/2|"D"ffe "F"fff|"Bm"eee "A7"cBB|"D"A3 d3|
+"G"g3 "Em"gfg|"Eb"bgb eeb|"Bb"bed "A7"ccB|"A"EAd "A7"efg|
+"D"ffd "A"dcc|"Em"B2B "E7"BBA|"Em"B2B "D"d2A|"G"dcB c2-|
+P:B
+e|"G"gdd "A"ecg|"B7"eea gfg|"G"ggg "A"eff|"D"fef efg|
+"D7"ddd "Bm"e2f|"G"bfb ddg|
+"A"f2e "Bm"agg|"Em"ged "C/e+"ggf|"D"a3 "F"e3\
+"Em"gdA "A"ABd|
+"D"f2g d2f|
+"Dm"f2f d2d|"G"g2f b2e|\
+"D"f2a f2f|"A"ggg edg|"D"f3 -A2E|"Em"E2E G2G|
+"G"GAG "E7"G3|"Em"G3 G,
+||
+
+
+M:6/8
+K:G
+P:A
+D|"G"G2B B2B|"G"B2G "A7"GFG|
+"Am"EBA AGE|Dde e2c|"Bm"B3 "G"G2B|"G"G2G "A"cAB|"Em"c2B "D7"G2A|"A7"A2C "G"G2:|
+K:N"C"G2B B2B|"C"cAd cdB|"Gm"B2d "D"f2e|
+"D"A2A "G"d2f|"G"d2d g2g|"D7"fec c2c|"G"Bcd "G7"B2D|"D7"A2A F2F|"D"D2D "C7"F2F|"Cm"E2G "D7"A2G|"Gm"A2G "A7"D3|"G"G2G B2G|G3 B3|"C7"CBA AFG|"C"GEF EBd|"C"ced cCG|"G"GGA d2:|
+
+
+S:Kevin Briggs, via EF
+M:4/4
+L:1/4
+K:G
+P:A
+f/2d/2|"G"g/2c/2B/2A/2 AB/2A/2|"D"Ae "G"d/2A/2F/2G/2|"D"A/2D/2A/2B/2 B/2A/2F/2A/2|\
+"G"G/2B/2A/2B/2 c/2B/2B/2B/2|"Am"A/2A/2G/2G/2 "G"GE:|
+
+
+M:6/8
+K:D
+A|"D"AdB eeA|
+"G"dBG gdB|"D"BAd AAA|"C"d3 d2c|"G"d3 d2:|
+P:B
+A|"G"G3 |:f2|"D"gff fgd|"D"efd A3|
+"D"c2d gAB|
+"F#m"e2e d2B|"E"B2B f2f|"Em"g2g -g2d|
+"C"fee "A"dcf|"A7"eaf "E7"e2d|"A"A2c aec|"A7"B2f ace|
+"A"e2a ffd|"D7"eee "G"dBc|"C"e2g efg|"C"e2d "D"B2c|"Bm"e4 B3|"D7"A3 -A2||
+
+
+M:4/4
+L:1/4
+K:D
+P:A
+A/2A/2|"G"B/2c/2B/2B/2 G/2A/2F/2A/2|"D"d/2c/2"G"A/2B/2 "A7"A/2A/2A/2^A/2|"D"Be "D"c/2B/2A/2A/2|"E7"G/2G/2A/2B/2 A/2A/2G/2G/2|
+"G"G/2G/2E/2F/2 "D"FE/2|P:)5
+g|E/2c/2d/2e/2|c/2c/2B/2A/2 c/2c/2e/2f/2|"Em"g/2g/2f/2e/2 a/2e/2e|"D7"fg "Em"d/2d/2e/2c/2|"D"A3/2B/2 "D"c=A|
+"D"d/2g/2e/2d/2 "E7"B/2d/2d/2B/2|F3/2A/2 Ag|
+"D"A/2A/2A/2B/2 e/2d/2d/2a/2|"D"af f/2e/2c|"D"f/2g/2f/2d/2 gc|"A"d/2e/2a/2f/2 g2|"Bm"e/2f/2e "Bm"Bd|"D"df a:|
+"Am"a/2g/2a/2f/2 c/2a/2d/2c/2|
+"A7"c/2d/2B/2e/2 d/2c/2e/2e/2|\
+"D"df ae/2e/2|"A"a2"f"a/2=e/2|\
+"G"ga/2g/2|"D"ff df/2a/2|"Em"g2 "D7"f2|
+"G"g/2f/2f/2g/2 B/2f/2f/2c/2|"Em"e/2d/2c/2d/2 B2|"D7"ed d/2c/2B/2B/2|"Em"A/2B/2c/2B/2 "D7"G/2A/2d|"E7"d/2c/2d/2e/2 "C"g2|\
+"A"d/2c/2d/2d/2 e/2B/2A/2A/2|
+"A""Bm"d/2B/2A/2c/2 "Am"e/2e/2e/2e/2|\
+"D"aa a/2e/2g/2g/
+
+M:4/4
+L:1/4
+K:G
+P:A
+B|(3"A"A2-A|"A"AA GG|"C"BG "A7"c2|"A7"BA cB|"A"Ae ec|"G"Bd de|"D"d2 ="E7"d3/2e/2|"A"A2 G2:|
+P:B
+f/2c/2|"A7"da ee|"G"e2 "G""Fm"A2|"Am"A2 "A7"AF/2c/2|"Em"BB "D7"BB|"Em"gf "A"e/2f/2f|"Am"ee "A"c3/2B/2|\
+"Am"AE "D7"F/2E/2G/2D/2|"Am"DF F||
+
+
+M:4/4
+L:1/4
+K:G
+d|"D7"Aa2|dd dd|"G7"B2 eB|"G"GF GE|"G"GE D2|"D"EF d2|A2 Bd|"A7"AB Ac:|
+P:G
+c|"C"aB c2|"C"f3/2e/2 d2|
+"G"BB "D7"ED|"Em"G2 e3/2d/2|"A7"cB -cG|
+"Am"AE "D7"EA|"G"B/2G/2G B/2c/2B/2A/2|"C"dE ED|
+"G"GA G^E|"G"Bg gd|"G"d"A7"d "e"AG|
+"Em"A2 B2|
+"Bm"B2 "D7"c2|
+"C7"ef a3/2f/2|"G"e2 B2|"Am"e34|"D"a3f|"Gm"b2 "C7"e3|"G"d3-|"C"d2d|"G/b"ef "Dm"cd|D5 ^d"D7"Ee|"Dm"(Gg3/2B/2c "G"G2-|
+"C"B2 d2|B4|"G"G_G BA|BG d2|"A7"AA Gc|"D#g"d3/2e/2c|"G"e3/2a/2|"D"d2||
+
+
+ig aasss
+i: Euille Rowlllish
+M:6/8
+K:A
+A|\"C"e2f g2g|"D"dfg a2g|"G"ddd "D"dAE|"G7"D2C G2D|"G"GFG "G"BBE|"Em"E2G "G"BBG|
+"G"G2G G2B|
+"Gm"FAB GBd|"Am"ccd cBA|"E7"BAG "D7"AAG|"G"BEE "Am"E3|"D7"A2E D2:|
+
+
+M:4/4
+L:1/4
+R:Hornpipa
+K:C
+P:G
+::|"Am"B2A A3|"E7"GBB "E"B3|"A"Aef fcB|"A"cdf "A#m"fff|"A"fed "D"d2:|
+P:B
+f|"A"e2e "Ee"cBA|"E7"b3 "D"ffg|"D"agg "A"f2af|"A"afa "A"ecA|"A7"AFD D2:|
+
+
+M:4/4
+L:1/4
+K:D
+G/2A/2|"A"d
+"A"c4/2e/2 "D"f/2d/2d/2^c/2|"A"D/2F/2A/2G/2 A/2A/2A/2F/2|\
+"A"A/2\|"D"A/2B/2 A/2c/2|"D"fa/2f/2|"D"f/2e/2
+P:A
+a/2d/2|"G"d/2d/2B/2c/2 B/2B/2A|\
+"C"gf/2g/2 a/2g/2f/2e/2|"Am"f/2d/2e/2c/2 cB|"D"c/2A/2d/2c/2 d/2f/2e/2d/2|
+"Am"A/2F/2F/2B/2 B/2c/2c/2c/2|"D7"AB "D7"Ac/2B/2|
+"C7"B/2c/2c/2B/2 A/2D/2E/2D/2|"G"G/2F/2G/2G/2 dB/2c/2|\
+K:D
+"A"A/2F/2A/2c/2 c/2B/2A/2d/2|
+"G"g/2f/2g/2g/2 d3/2e/2|"D7"e/2d/2A/2d/2 d/2"E"e/2e/2|"C"f/2a/2d/2g/2 a/2a/2a/2g/2|"G"gg/2f/2 "Ab"ee/2e/2|"Em"e/2f/2f/2d/2 "D"d/2c/2B/2A/2|\
+"G"B/2A/2F/2F/2 "Am"G/2F/2B/2d/2|\
+"G"g/2e/2g/2f/2 gd/2e/2|"D"e/2f/2f/2d/2 "F7"d/2A/2d/2e/2|
+"A"Aa/2A/2 c/2A/2B/2A/2|
+"G"BB/2c/2 d/2d/2c/2A/2|K2D/2A/2|"E7"d/2c/2B/2B/2 AA|"G"G/2G/2G/2d/2 "C"d/2G/2F/2G/2|Ad B/2d/2e/2d/2|\
+
+M:6/8
+K:D
+P:A
+F/2G/2|"C"Add B2B|"D"c3 fde|
+"G"ggg "A7"faf|"G"gff g3|"C"afd "G"deB|"C"d3 -d2:|
+
+
+M:6/8
+K:C
+P:A
+D|\
+"G"G2G A2B|"Em"BBG F2G|"Bm"B2G "D7"A^Bc|"D"BGA cBF|"A"A2A A2A|"D"AAA E2A|"D"B2c "E7"Bdd||
+"A"edd A2c|
+"D"edc f2e|"A"c2A "D7"A2A|\
+"A"A3 ||
+
+
+P:AABCCR,
+M:4/4
+L:1/4
+K:G
+"D""E"A/2F/2F/2D/2 d2/2c/2|
+"G"dd B3/2B/2|"D"A/2A/2A/2A/2 "A7"Ac|"Em"g/2g/2^B/2c/2 "D"cd/2f/2|\
+"A"a/2b/2f/2B/2 g/2f/2a/2e/2|"D"f/2f/2a/2e/2 f/2e/2d/2d/2|"D"f/2a/2d/2A/2 f/2f/2e/2f/2|\
+"D"f/2d/2d/2d/2 d:|
+B/2A/2|D/2F/2B/2c/2 d/2d/2c/2e/2|"A7Ag"e/2d/2d/2 e/2e/2f/2g/2|
+"A7"ef "D"de/2d/2|"D"A/2d/2e/2e/2 "A"f/2d/2c/2B/2|
+"Em"B/2A/2B/2c/2 "G"B/2A/2B/2B/2|\
+"D"A/2d/2d/2g/2 a/2f/2f/2a/2|"Em"g/2g/2e/2g/2 de|"C"g3/2d/4 "D"c/2c/2A/2A/2|"F"B/2A/2c/2f/2 "A"e:|
+
+
+M:4/4
+L:1/4
+K:G
+"A7"d4|"D"d/2A/2c/2c/2 A/2G/2C/2A/2|"D"A/2B/2A/2A/2 "A7"G/2A/2B/2A/2|"G"G/2F/2F/2F/2 D/2F/2D/2A/2|\
+"D"A/2c/2B/2A/2 "D"F/2E/2G/2D/2|"Am"E/2E/2F/2D/2 "D"A::
+c/2f/2|"D"f/2e/2d/2B/2 Gg/2f/2|"Am"e/2B/2B/2A/2 "E7"A/2F/2F/2D/2|\
+"G"G/2D/2G/2E/2 F3/2E/2|\
+"G"G/2G/2E/2B/2 "A7"c/2c/2d/2c/2|"D"d/2e/2g/2f/2 c/2c/2c/2A/2|[1"D"F/2B/2d/2B/2 c/2A/2c/2c/2|
+"G"B/2A/2d/2d/2 "G"c/2B/2^c/2c/2|"Am"cE =G:|
+P:(3A/2e/2e/2|\
+"A"a/2"Ag"A
+"A"f/2e/2A/2c/2|"Em"e/2g/2d/2f/2 d/2c/2d/2d/2|"D"d/2d/2A/2B/2 A/2B/2a/2a/2|
+"D"f/2e/2c/2A/2 BB/2B/2|
+"G"G3/2c/2 "G"dA/2A/2|"D7"d/2d/2f/2f/2 "F"d3\|[2
+"Em"g/2e/2e/2f/2 "D"fd/2d/2|"Em"d/2B/2B/2B/2 "Em"B/2B/2B/2B/2|B/2d/2B/2c/2 "D"dd|"A"=d/2^e/2f/2g/2 "A"af/2g/2|"A7"de/2g/2 g/2e/2e/2f/2|"Em"e/2c/2c/2A/2 "A"c/2g/2d/2f/2|\
+"A"e/2d/2e/2f/2 "D"a/2f/2g/2f/2|"D"f::
+"D"f/
+
